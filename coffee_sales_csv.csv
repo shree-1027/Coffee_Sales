@@ -1,0 +1,1045 @@
+Order ID,Coffee_Name,Unit Price,Quantity,Total Amount,Discount (%),Net Sales,Payment_Mode,Store Location,Time,Date,Customer Type,Feedback Score,weekday_name
+1,Latte,38,1,38,15,32,Cash,Downtown,10:15:51 AM,01-03-2024,New,3,Friday
+2,Hot Chocolate,38,1,38,15,32,Mobile Payment,Mall,12:19:23 PM,01-03-2024,Old,5,Friday
+3,Hot Chocolate,38,2,77,10,69,Cash,University,12:20:18 PM,01-03-2024,New,4,Friday
+4,Americano,28,2,57,0,57,Mobile Payment,Airport,01:46:33 PM,01-03-2024,Old,1,Friday
+5,Latte,38,3,116,20,92,Mobile Payment,Downtown,01:48:15 PM,01-03-2024,New,3,Friday
+6,Americano with Milk,33,3,101,10,91,Card,University,03:39:48 PM,01-03-2024,Old,3,Friday
+7,Hot Chocolate,38,1,38,10,34,Mobile Payment,Airport,04:19:03 PM,01-03-2024,Old,4,Friday
+8,Americano with Milk,33,2,67,10,60,Cash,Mall,06:39:04 PM,01-03-2024,Old,2,Friday
+9,Cocoa,38,1,38,20,30,Card,Airport,07:22:02 PM,01-03-2024,New,4,Friday
+10,Americano with Milk,33,1,33,5,32,Cash,Downtown,07:23:16 PM,01-03-2024,New,5,Friday
+11,Americano with Milk,33,2,67,5,64,Card,Airport,07:29:17 PM,01-03-2024,New,4,Friday
+12,Americano,28,2,57,5,54,Card,Mall,10:22:07 AM,02-03-2024,New,5,Saturday
+13,Americano with Milk,33,2,67,0,67,Card,University,10:41:41 AM,02-03-2024,New,2,Saturday
+14,Americano with Milk,33,3,101,10,91,Cash,Downtown,11:59:45 AM,02-03-2024,New,1,Saturday
+15,Americano,28,2,57,20,46,Cash,Downtown,02:38:36 PM,02-03-2024,New,2,Saturday
+16,Americano with Milk,33,1,33,5,32,Mobile Payment,Mall,04:37:24 PM,02-03-2024,Old,1,Saturday
+17,Americano,28,1,28,0,28,Cash,Mall,05:34:55 PM,02-03-2024,Old,3,Saturday
+18,Latte,38,1,38,10,34,Card,Downtown,10:27:19 AM,03-03-2024,Old,3,Sunday
+19,Cortado,28,1,28,15,24,Card,Mall,11:33:56 AM,03-03-2024,New,4,Sunday
+20,Americano,28,3,86,5,82,Mobile Payment,Mall,12:26:56 PM,03-03-2024,New,2,Sunday
+21,Hot Chocolate,38,3,116,10,104,Mobile Payment,Downtown,01:09:36 PM,03-03-2024,New,5,Sunday
+22,Cocoa,38,3,116,5,110,Card,Mall,05:06:40 PM,03-03-2024,Old,2,Sunday
+23,Cortado,28,1,28,5,27,Cash,Airport,05:08:46 PM,03-03-2024,Old,4,Sunday
+24,Americano with Milk,33,2,67,20,54,Mobile Payment,University,06:03:23 PM,03-03-2024,Old,3,Sunday
+25,Americano with Milk,33,1,33,10,30,Cash,University,06:04:28 PM,03-03-2024,Old,1,Sunday
+26,Hot Chocolate,38,2,77,0,77,Mobile Payment,University,06:08:05 PM,03-03-2024,Old,4,Sunday
+27,Latte,38,2,77,0,77,Card,University,10:03:52 AM,04-03-2024,New,1,Monday
+28,Latte,38,1,38,15,32,Cash,Airport,10:54:51 AM,04-03-2024,New,5,Monday
+29,Americano with Milk,33,2,67,0,67,Mobile Payment,Mall,11:05:16 AM,04-03-2024,Old,4,Monday
+30,Espresso,24,3,72,15,61,Card,Airport,02:04:38 PM,04-03-2024,Old,5,Monday
+31,Latte,38,3,116,10,104,Mobile Payment,Airport,09:59:53 AM,05-03-2024,New,2,Tuesday
+32,Latte,38,2,77,10,69,Card,Mall,02:34:56 PM,05-03-2024,New,1,Tuesday
+33,Latte,38,3,116,5,110,Card,Mall,05:34:06 PM,05-03-2024,New,2,Tuesday
+34,Hot Chocolate,38,3,116,0,116,Card,Airport,05:35:25 PM,05-03-2024,New,4,Tuesday
+35,Cocoa,38,2,77,15,65,Cash,Mall,05:36:29 PM,05-03-2024,Old,3,Tuesday
+36,Hot Chocolate,38,3,116,0,116,Cash,Downtown,05:37:14 PM,05-03-2024,New,5,Tuesday
+37,Hot Chocolate,38,1,38,15,32,Cash,Mall,05:38:09 PM,05-03-2024,Old,4,Tuesday
+38,Cortado,28,2,57,5,54,Cash,Mall,05:56:16 PM,05-03-2024,Old,5,Tuesday
+39,Hot Chocolate,38,2,77,5,73,Cash,University,06:01:31 PM,05-03-2024,Old,5,Tuesday
+40,Americano,28,3,86,20,69,Mobile Payment,University,01:24:08 PM,06-03-2024,New,1,Wednesday
+41,Cortado,28,2,57,10,52,Cash,Mall,01:25:14 PM,06-03-2024,Old,2,Wednesday
+42,Cappuccino,38,1,38,10,34,Cash,Airport,02:52:02 PM,06-03-2024,New,1,Wednesday
+43,Cappuccino,38,2,77,5,73,Cash,Mall,02:53:18 PM,06-03-2024,New,3,Wednesday
+44,Hot Chocolate,38,2,77,15,65,Cash,Mall,10:18:41 AM,07-03-2024,Old,2,Thursday
+45,Latte,38,2,77,0,77,Mobile Payment,Mall,11:03:59 AM,07-03-2024,Old,4,Thursday
+46,Americano,28,2,57,0,57,Card,Mall,03:40:23 PM,07-03-2024,Old,5,Thursday
+47,Americano with Milk,33,2,67,20,54,Cash,Downtown,03:41:29 PM,07-03-2024,New,1,Thursday
+48,Cortado,28,1,28,10,26,Card,University,10:34:41 AM,08-03-2024,New,3,Friday
+49,Cappuccino,38,2,77,0,77,Mobile Payment,Downtown,12:22:29 PM,08-03-2024,New,4,Friday
+50,Americano,28,2,57,0,57,Cash,Airport,01:53:02 PM,08-03-2024,Old,3,Friday
+51,Americano,28,1,28,5,27,Card,Mall,02:44:13 PM,08-03-2024,Old,3,Friday
+52,Americano,28,2,57,10,52,Cash,Airport,02:45:11 PM,08-03-2024,Old,2,Friday
+53,Americano with Milk,33,1,33,20,27,Cash,University,02:46:11 PM,08-03-2024,Old,3,Friday
+54,Latte,38,3,116,0,116,Mobile Payment,Airport,06:57:51 PM,08-03-2024,Old,5,Friday
+55,Latte,38,1,38,20,30,Cash,University,06:59:25 PM,08-03-2024,Old,3,Friday
+56,Espresso,24,1,24,0,24,Mobile Payment,Mall,12:05:16 PM,09-03-2024,New,2,Saturday
+57,Americano,28,2,57,20,46,Mobile Payment,Mall,12:07:38 PM,09-03-2024,Old,3,Saturday
+58,Cappuccino,38,3,116,20,92,Card,Mall,12:09:48 PM,09-03-2024,New,1,Saturday
+59,Americano,28,1,28,5,27,Mobile Payment,University,12:13:04 PM,09-03-2024,Old,2,Saturday
+60,Americano,28,3,86,15,73,Cash,Airport,12:14:26 PM,09-03-2024,Old,1,Saturday
+61,Latte,38,3,116,20,92,Cash,University,01:09:22 PM,09-03-2024,New,5,Saturday
+62,Americano with Milk,33,1,33,20,27,Card,Downtown,01:41:06 PM,09-03-2024,Old,4,Saturday
+63,Cortado,28,1,28,10,26,Cash,University,01:53:10 PM,09-03-2024,Old,4,Saturday
+64,Cappuccino,38,3,116,20,92,Mobile Payment,Mall,01:54:37 PM,09-03-2024,Old,4,Saturday
+65,Americano with Milk,33,2,67,5,64,Cash,Mall,02:08:02 PM,09-03-2024,Old,3,Saturday
+66,Hot Chocolate,38,2,77,10,69,Mobile Payment,Downtown,02:26:53 PM,09-03-2024,Old,2,Saturday
+67,Cappuccino,38,2,77,10,69,Card,Airport,07:17:58 PM,09-03-2024,New,3,Saturday
+68,Hot Chocolate,38,1,38,0,38,Card,Downtown,07:19:10 PM,09-03-2024,New,2,Saturday
+69,Espresso,24,1,24,0,24,Mobile Payment,Downtown,11:19:21 AM,10-03-2024,New,1,Sunday
+70,Latte,38,2,77,20,61,Cash,Mall,07:34:00 PM,10-03-2024,Old,1,Sunday
+71,Cortado,28,1,28,10,26,Cash,Downtown,07:35:55 PM,10-03-2024,Old,1,Sunday
+72,Cappuccino,38,2,77,15,65,Cash,University,11:32:59 AM,11-03-2024,New,3,Monday
+73,Americano,28,2,57,0,57,Mobile Payment,Mall,04:24:26 PM,11-03-2024,Old,2,Monday
+74,Latte,38,1,38,10,34,Cash,Airport,04:25:46 PM,11-03-2024,New,5,Monday
+75,Cortado,28,1,28,5,27,Cash,Mall,04:50:50 PM,11-03-2024,New,5,Monday
+76,Americano,28,1,28,20,23,Mobile Payment,University,10:15:35 AM,12-03-2024,Old,2,Tuesday
+77,Cortado,28,1,28,10,26,Cash,Downtown,10:16:25 AM,12-03-2024,New,5,Tuesday
+78,Hot Chocolate,38,3,116,20,92,Mobile Payment,Mall,11:20:46 AM,12-03-2024,Old,3,Tuesday
+79,Americano with Milk,33,2,67,15,57,Card,Mall,12:46:23 PM,12-03-2024,Old,2,Tuesday
+80,Americano,28,2,57,5,54,Cash,Mall,12:47:26 PM,12-03-2024,New,2,Tuesday
+81,Americano,28,1,28,5,27,Card,Airport,04:15:43 PM,12-03-2024,New,5,Tuesday
+82,Hot Chocolate,38,1,38,10,34,Cash,Airport,11:06:43 AM,13-03-2024,Old,4,Wednesday
+83,Americano,28,2,57,5,54,Card,University,11:48:17 AM,13-03-2024,New,5,Wednesday
+84,Americano,28,2,57,10,52,Cash,University,12:18:06 PM,13-03-2024,Old,1,Wednesday
+85,Americano,28,3,86,20,69,Mobile Payment,Airport,12:19:05 PM,13-03-2024,New,2,Wednesday
+86,Americano with Milk,33,1,33,5,32,Mobile Payment,Airport,02:26:41 PM,13-03-2024,Old,4,Wednesday
+87,Espresso,24,1,24,20,19,Card,Mall,03:40:22 PM,13-03-2024,New,5,Wednesday
+88,Espresso,24,2,48,10,43,Card,Airport,03:41:20 PM,13-03-2024,Old,3,Wednesday
+89,Espresso,24,1,24,5,22,Cash,Downtown,04:47:09 PM,13-03-2024,New,4,Wednesday
+90,Latte,38,3,116,10,104,Mobile Payment,University,10:28:33 AM,14-03-2024,Old,5,Thursday
+91,Hot Chocolate,38,3,116,0,116,Mobile Payment,Mall,10:29:34 AM,14-03-2024,New,1,Thursday
+92,Cortado,28,2,57,5,54,Card,Mall,01:27:30 PM,14-03-2024,Old,1,Thursday
+93,Americano,28,2,57,15,49,Cash,Airport,01:28:25 PM,14-03-2024,Old,5,Thursday
+94,Americano with Milk,33,3,101,5,96,Mobile Payment,University,01:52:00 PM,14-03-2024,New,2,Thursday
+95,Espresso,24,1,24,10,21,Card,Downtown,01:52:56 PM,14-03-2024,New,2,Thursday
+96,Latte,38,1,38,5,36,Card,University,03:20:38 PM,14-03-2024,New,3,Thursday
+97,Americano with Milk,33,3,101,5,96,Mobile Payment,Mall,04:04:10 PM,14-03-2024,New,3,Thursday
+98,Espresso,24,3,72,15,61,Cash,University,04:54:38 PM,14-03-2024,New,3,Thursday
+99,Hot Chocolate,38,3,116,20,92,Mobile Payment,Airport,06:58:56 PM,14-03-2024,Old,5,Thursday
+100,Cortado,28,2,57,5,54,Mobile Payment,Downtown,07:00:09 PM,14-03-2024,Old,3,Thursday
+101,Hot Chocolate,38,2,77,10,69,Mobile Payment,Airport,10:53:02 AM,15-03-2024,Old,1,Friday
+102,Americano,28,1,28,15,24,Card,Downtown,06:19:28 PM,15-03-2024,Old,1,Friday
+103,Americano with Milk,33,3,101,20,81,Cash,Downtown,12:06:55 PM,16-03-2024,New,3,Saturday
+104,Americano,28,2,57,0,57,Mobile Payment,Downtown,12:07:54 PM,16-03-2024,Old,5,Saturday
+105,Cortado,28,1,28,5,27,Cash,Airport,03:58:18 PM,16-03-2024,New,2,Saturday
+106,Cortado,28,1,28,15,24,Mobile Payment,University,04:03:22 PM,16-03-2024,Old,2,Saturday
+107,Cortado,28,2,57,15,49,Cash,Airport,04:04:11 PM,16-03-2024,Old,2,Saturday
+108,Americano with Milk,33,1,33,10,30,Mobile Payment,Downtown,05:58:07 PM,16-03-2024,Old,5,Saturday
+109,Cortado,28,3,86,0,86,Mobile Payment,University,12:55:26 PM,17-03-2024,New,3,Sunday
+110,Cortado,28,3,86,5,82,Mobile Payment,Mall,11:18:00 AM,18-03-2024,New,4,Monday
+111,Americano,28,2,57,0,57,Cash,Mall,03:31:40 PM,18-03-2024,Old,1,Monday
+112,Americano,28,1,28,0,28,Card,Airport,03:32:38 PM,18-03-2024,Old,5,Monday
+113,Americano,28,1,28,20,23,Mobile Payment,Mall,03:33:37 PM,18-03-2024,New,5,Monday
+114,Latte,38,1,38,20,30,Card,Airport,02:02:22 PM,19-03-2024,New,1,Tuesday
+115,Latte,38,1,38,0,38,Card,Downtown,02:03:20 PM,19-03-2024,Old,5,Tuesday
+116,Hot Chocolate,38,2,77,20,61,Cash,Downtown,03:04:36 PM,19-03-2024,Old,5,Tuesday
+117,Americano with Milk,33,1,33,15,28,Cash,Airport,04:53:49 PM,19-03-2024,New,3,Tuesday
+118,Cortado,28,1,28,20,23,Cash,University,11:41:16 AM,20-03-2024,New,4,Wednesday
+119,Cortado,28,1,28,10,26,Cash,Downtown,12:30:49 PM,20-03-2024,New,3,Wednesday
+120,Cappuccino,38,2,77,5,73,Cash,Downtown,01:16:47 PM,20-03-2024,New,3,Wednesday
+121,Cocoa,38,2,77,10,69,Mobile Payment,Airport,04:42:38 PM,20-03-2024,Old,1,Wednesday
+122,Latte,38,2,77,0,77,Cash,Airport,05:50:29 PM,20-03-2024,Old,5,Wednesday
+123,Cortado,28,3,86,20,69,Card,University,12:25:09 PM,21-03-2024,New,3,Thursday
+124,Cappuccino,38,2,77,15,65,Cash,Downtown,12:26:17 PM,21-03-2024,Old,5,Thursday
+125,Cortado,28,1,28,10,26,Mobile Payment,University,05:22:01 PM,21-03-2024,New,2,Thursday
+126,Latte,38,2,77,15,65,Card,University,07:20:37 PM,21-03-2024,New,1,Thursday
+127,Americano with Milk,33,3,101,5,96,Cash,Airport,10:35:54 AM,22-03-2024,New,3,Friday
+128,Americano with Milk,33,3,101,10,91,Mobile Payment,University,01:29:20 PM,22-03-2024,Old,2,Friday
+129,Americano,28,2,57,20,46,Mobile Payment,Downtown,05:17:04 PM,22-03-2024,Old,5,Friday
+130,Espresso,24,3,72,20,57,Card,Downtown,05:17:59 PM,22-03-2024,Old,1,Friday
+131,Americano,28,2,57,10,52,Cash,Airport,05:20:49 PM,22-03-2024,New,5,Friday
+132,Latte,38,2,77,0,77,Card,Downtown,10:44:00 AM,23-03-2024,New,4,Saturday
+133,Americano with Milk,33,2,67,20,54,Mobile Payment,Airport,10:45:07 AM,23-03-2024,Old,2,Saturday
+134,Cappuccino,38,2,77,10,69,Mobile Payment,Airport,01:10:08 PM,23-03-2024,Old,1,Saturday
+135,Cocoa,38,1,38,15,32,Card,Mall,01:11:12 PM,23-03-2024,New,4,Saturday
+136,Americano with Milk,33,1,33,10,30,Card,Downtown,02:44:41 PM,23-03-2024,New,2,Saturday
+137,Latte,38,1,38,0,38,Card,Airport,03:47:19 PM,23-03-2024,New,1,Saturday
+138,Americano with Milk,33,3,101,10,91,Mobile Payment,Downtown,03:49:34 PM,23-03-2024,Old,1,Saturday
+139,Cortado,28,2,57,10,52,Cash,University,04:00:58 PM,23-03-2024,Old,4,Saturday
+140,Latte,38,3,116,15,98,Card,Airport,06:45:08 PM,24-03-2024,Old,1,Sunday
+141,Latte,38,3,116,20,92,Cash,Mall,10:31:47 AM,25-03-2024,New,3,Monday
+142,Latte,38,3,116,10,104,Card,University,02:27:09 PM,25-03-2024,Old,1,Monday
+143,Latte,38,2,77,5,73,Card,Downtown,02:29:25 PM,25-03-2024,Old,1,Monday
+144,Americano with Milk,33,2,67,10,60,Cash,Downtown,06:37:31 PM,25-03-2024,Old,5,Monday
+145,Cappuccino,38,2,77,0,77,Cash,Airport,07:34:25 PM,25-03-2024,New,3,Monday
+146,Cocoa,38,3,116,5,110,Card,Downtown,10:35:50 AM,26-03-2024,Old,3,Tuesday
+147,Latte,38,1,38,5,36,Mobile Payment,Downtown,10:36:36 AM,26-03-2024,New,1,Tuesday
+148,Latte,38,3,116,0,116,Mobile Payment,Mall,10:42:30 AM,26-03-2024,New,2,Tuesday
+149,Cortado,28,1,28,0,28,Mobile Payment,University,11:11:47 AM,26-03-2024,Old,4,Tuesday
+150,Americano,28,2,57,20,46,Card,Mall,01:35:53 PM,26-03-2024,Old,4,Tuesday
+151,Cortado,28,1,28,10,26,Card,University,01:36:50 PM,26-03-2024,New,2,Tuesday
+152,Cortado,28,1,28,10,26,Card,Airport,01:38:00 PM,26-03-2024,New,4,Tuesday
+153,Americano,28,1,28,15,24,Cash,Mall,01:57:54 PM,26-03-2024,Old,2,Tuesday
+154,Latte,38,1,38,15,32,Cash,Downtown,03:48:02 PM,26-03-2024,Old,3,Tuesday
+155,Latte,38,2,77,10,69,Card,Airport,06:33:39 PM,26-03-2024,New,5,Tuesday
+156,Hot Chocolate,38,2,77,20,61,Card,Downtown,06:34:55 PM,26-03-2024,New,4,Tuesday
+157,Cortado,28,2,57,20,46,Mobile Payment,University,11:04:51 AM,27-03-2024,New,1,Wednesday
+158,Americano with Milk,33,3,101,10,91,Card,Downtown,11:05:58 AM,27-03-2024,New,3,Wednesday
+159,Americano with Milk,33,2,67,0,67,Cash,Downtown,12:57:00 PM,27-03-2024,New,4,Wednesday
+160,Hot Chocolate,38,2,77,10,69,Card,University,01:35:20 PM,27-03-2024,New,5,Wednesday
+161,Cappuccino,38,2,77,10,69,Mobile Payment,University,02:22:32 PM,27-03-2024,Old,5,Wednesday
+162,Americano,28,2,57,20,46,Mobile Payment,Downtown,02:23:35 PM,27-03-2024,New,4,Wednesday
+163,Cortado,28,1,28,5,27,Cash,University,06:30:12 PM,27-03-2024,New,2,Wednesday
+164,Cortado,28,1,28,5,27,Card,Downtown,02:24:47 PM,28-03-2024,Old,5,Thursday
+165,Cortado,28,2,57,0,57,Mobile Payment,Airport,05:24:46 PM,28-03-2024,New,1,Thursday
+166,Americano,28,3,86,5,82,Cash,University,05:27:05 PM,28-03-2024,New,5,Thursday
+167,Latte,38,1,38,15,32,Card,Downtown,05:32:45 PM,28-03-2024,New,4,Thursday
+168,Latte,38,1,38,10,34,Mobile Payment,Mall,10:56:19 AM,29-03-2024,Old,4,Friday
+169,Cappuccino,38,1,38,5,36,Card,Downtown,12:34:17 PM,29-03-2024,New,3,Friday
+170,Cappuccino,38,2,77,15,65,Cash,Mall,12:41:32 PM,29-03-2024,Old,3,Friday
+171,Latte,38,2,77,10,69,Mobile Payment,Mall,11:59:20 AM,30-03-2024,New,1,Saturday
+172,Latte,38,3,116,5,110,Cash,University,04:12:32 PM,30-03-2024,New,3,Saturday
+173,Latte,38,2,77,20,61,Mobile Payment,Airport,04:36:41 PM,30-03-2024,Old,4,Saturday
+174,Americano with Milk,33,1,33,20,27,Card,Downtown,04:37:58 PM,30-03-2024,New,1,Saturday
+175,Cappuccino,38,3,116,15,98,Mobile Payment,Airport,10:40:05 AM,31-03-2024,New,3,Sunday
+176,Americano,28,3,86,10,78,Mobile Payment,Airport,10:28:48 AM,01-04-2024,New,2,Monday
+177,Americano with Milk,33,2,67,5,64,Card,Airport,10:29:42 AM,01-04-2024,New,3,Monday
+178,Americano with Milk,33,3,101,20,81,Card,Downtown,10:30:44 AM,01-04-2024,New,4,Monday
+179,Americano with Milk,33,1,33,5,32,Card,Airport,11:15:44 AM,01-04-2024,Old,5,Monday
+180,Americano with Milk,33,1,33,10,30,Mobile Payment,Mall,06:18:42 PM,01-04-2024,New,1,Monday
+181,Hot Chocolate,38,2,77,5,73,Cash,Mall,06:45:27 PM,01-04-2024,New,5,Monday
+182,Latte,38,3,116,10,104,Mobile Payment,University,10:01:14 AM,02-04-2024,New,4,Tuesday
+183,Americano,28,2,57,15,49,Cash,Mall,04:18:34 PM,02-04-2024,New,3,Tuesday
+184,Cortado,28,1,28,20,23,Card,Downtown,04:19:28 PM,02-04-2024,Old,4,Tuesday
+185,Cortado,28,2,57,0,57,Card,Downtown,10:19:14 AM,03-04-2024,New,5,Wednesday
+186,Americano,28,1,28,15,24,Cash,Downtown,10:20:08 AM,03-04-2024,Old,2,Wednesday
+187,Cappuccino,38,3,116,5,110,Card,Airport,01:12:05 PM,03-04-2024,New,4,Wednesday
+188,Latte,38,1,38,0,38,Card,Downtown,10:44:56 AM,04-04-2024,New,5,Thursday
+189,Latte,38,1,38,0,38,Card,Airport,11:26:38 AM,04-04-2024,Old,4,Thursday
+190,Cappuccino,38,3,116,10,104,Mobile Payment,Airport,11:27:48 AM,04-04-2024,Old,4,Thursday
+191,Cortado,28,2,57,0,57,Card,University,12:23:02 PM,04-04-2024,New,4,Thursday
+192,Americano,28,3,86,10,78,Card,Airport,10:40:43 AM,05-04-2024,New,2,Friday
+193,Americano,28,2,57,20,46,Card,Downtown,10:42:06 AM,05-04-2024,Old,4,Friday
+194,Cortado,28,1,28,0,28,Mobile Payment,Downtown,11:06:15 AM,05-04-2024,New,5,Friday
+195,Americano with Milk,33,3,101,10,91,Card,Downtown,12:14:28 PM,05-04-2024,Old,3,Friday
+196,Latte,38,1,38,0,38,Mobile Payment,Airport,02:23:40 PM,05-04-2024,Old,2,Friday
+197,Cortado,28,1,28,0,28,Cash,Downtown,02:24:50 PM,05-04-2024,Old,5,Friday
+198,Espresso,24,1,24,15,20,Card,Mall,04:18:24 PM,05-04-2024,New,3,Friday
+199,Americano with Milk,33,1,33,20,27,Card,Downtown,12:32:31 PM,06-04-2024,Old,2,Saturday
+200,Cappuccino,38,2,77,15,65,Cash,Downtown,02:13:19 PM,06-04-2024,New,1,Saturday
+201,Americano,28,2,57,15,49,Cash,University,02:14:27 PM,06-04-2024,New,1,Saturday
+202,Latte,38,1,38,5,36,Mobile Payment,Mall,02:49:50 PM,06-04-2024,New,4,Saturday
+203,Latte,38,3,116,15,98,Card,University,10:12:53 AM,07-04-2024,Old,4,Sunday
+204,Cappuccino,38,2,77,20,61,Card,Downtown,12:44:32 PM,07-04-2024,Old,1,Sunday
+205,Cappuccino,38,3,116,10,104,Card,Airport,12:46:05 PM,07-04-2024,Old,4,Sunday
+206,Cortado,28,1,28,0,28,Cash,Airport,02:16:25 PM,07-04-2024,New,1,Sunday
+207,Espresso,24,3,72,15,61,Card,University,02:17:31 PM,07-04-2024,New,2,Sunday
+208,Hot Chocolate,38,1,38,15,32,Card,University,06:01:17 PM,07-04-2024,Old,1,Sunday
+209,Americano with Milk,33,1,33,15,28,Cash,Mall,06:02:04 PM,07-04-2024,New,3,Sunday
+210,Americano with Milk,33,2,67,0,67,Mobile Payment,Mall,10:58:21 AM,08-04-2024,Old,1,Monday
+211,Cappuccino,38,3,116,10,104,Mobile Payment,University,10:59:28 AM,08-04-2024,New,5,Monday
+212,Americano,28,3,86,10,78,Card,University,11:01:20 AM,08-04-2024,Old,1,Monday
+213,Cappuccino,38,1,38,20,30,Mobile Payment,University,11:04:47 AM,08-04-2024,New,3,Monday
+214,Latte,38,1,38,10,34,Cash,Downtown,04:41:38 PM,08-04-2024,Old,2,Monday
+215,Americano,28,2,57,10,52,Cash,University,06:18:10 PM,08-04-2024,New,5,Monday
+216,Americano with Milk,33,1,33,5,32,Mobile Payment,Airport,07:22:27 PM,08-04-2024,New,5,Monday
+217,Cappuccino,38,2,77,5,73,Card,University,07:23:59 PM,08-04-2024,New,5,Monday
+218,Latte,38,3,116,20,92,Mobile Payment,Downtown,11:42:28 AM,09-04-2024,Old,1,Tuesday
+219,Hot Chocolate,38,2,77,0,77,Cash,Airport,03:11:49 PM,09-04-2024,New,1,Tuesday
+220,Hot Chocolate,38,2,77,15,65,Cash,Downtown,05:25:24 PM,09-04-2024,New,3,Tuesday
+221,Espresso,24,3,72,15,61,Card,University,05:55:31 PM,10-04-2024,Old,2,Wednesday
+222,Cappuccino,38,3,116,10,104,Cash,Mall,06:24:59 PM,10-04-2024,New,3,Wednesday
+223,Latte,38,3,116,15,98,Mobile Payment,Airport,08:04:05 PM,10-04-2024,Old,3,Wednesday
+224,Americano,28,1,28,5,27,Card,Airport,10:41:23 AM,11-04-2024,Old,1,Thursday
+225,Americano,28,3,86,20,69,Cash,University,10:42:59 AM,11-04-2024,New,4,Thursday
+226,Latte,38,3,116,15,98,Cash,University,04:35:23 PM,11-04-2024,Old,2,Thursday
+227,Cappuccino,38,3,116,10,104,Mobile Payment,Airport,07:16:57 PM,11-04-2024,New,1,Thursday
+228,Americano with Milk,33,3,101,0,101,Mobile Payment,Airport,07:18:37 PM,11-04-2024,New,3,Thursday
+229,Hot Chocolate,38,3,116,10,104,Cash,Mall,07:03:43 PM,12-04-2024,New,5,Friday
+230,Cortado,28,3,86,20,69,Card,Airport,07:38:23 PM,12-04-2024,New,2,Friday
+231,Latte,38,1,38,0,38,Mobile Payment,Downtown,12:29:20 PM,13-04-2024,Old,3,Saturday
+232,Americano,28,2,57,15,49,Mobile Payment,Downtown,12:43:02 PM,13-04-2024,New,2,Saturday
+233,Cappuccino,38,1,38,20,30,Mobile Payment,Airport,04:18:04 PM,13-04-2024,New,1,Saturday
+234,Latte,38,2,77,0,77,Card,University,04:19:40 PM,13-04-2024,Old,2,Saturday
+235,Cappuccino,38,2,77,20,61,Mobile Payment,Airport,05:51:26 PM,13-04-2024,Old,1,Saturday
+236,Cappuccino,38,1,38,20,30,Card,Mall,05:53:19 PM,13-04-2024,New,1,Saturday
+237,Cappuccino,38,3,116,15,98,Cash,Downtown,12:24:39 PM,14-04-2024,Old,2,Sunday
+238,Cortado,28,2,57,20,46,Card,Mall,01:21:50 PM,14-04-2024,Old,2,Sunday
+239,Americano,28,3,86,15,73,Cash,Airport,02:23:32 PM,14-04-2024,New,2,Sunday
+240,Americano,28,2,57,20,46,Mobile Payment,Airport,02:24:27 PM,14-04-2024,Old,3,Sunday
+241,Americano,28,3,86,10,78,Cash,University,02:25:18 PM,14-04-2024,New,4,Sunday
+242,Cappuccino,38,3,116,0,116,Card,Airport,03:46:28 PM,14-04-2024,Old,3,Sunday
+243,Cortado,28,2,57,20,46,Cash,Airport,04:59:55 PM,14-04-2024,New,1,Sunday
+244,Latte,38,1,38,15,32,Cash,Airport,05:00:45 PM,14-04-2024,New,1,Sunday
+245,Cappuccino,38,3,116,20,92,Cash,Airport,06:38:20 PM,14-04-2024,Old,2,Sunday
+246,Americano,28,1,28,0,28,Cash,Downtown,11:45:25 AM,15-04-2024,Old,2,Monday
+247,Americano,28,1,28,10,26,Card,Airport,05:01:46 PM,15-04-2024,Old,3,Monday
+248,Americano with Milk,33,1,33,10,30,Cash,University,05:02:50 PM,15-04-2024,Old,4,Monday
+249,Americano with Milk,33,1,33,10,30,Cash,University,07:33:03 PM,15-04-2024,New,2,Monday
+250,Americano with Milk,33,3,101,0,101,Mobile Payment,Downtown,10:46:26 AM,16-04-2024,New,4,Tuesday
+251,Cocoa,38,2,77,15,65,Cash,University,12:40:48 PM,16-04-2024,New,3,Tuesday
+252,Cortado,28,3,86,0,86,Cash,Airport,12:52:08 PM,16-04-2024,New,4,Tuesday
+253,Americano,28,3,86,0,86,Cash,Mall,03:03:17 PM,16-04-2024,New,3,Tuesday
+254,Americano with Milk,33,3,101,15,86,Mobile Payment,Mall,05:42:04 PM,16-04-2024,New,5,Tuesday
+255,Cappuccino,38,1,38,20,30,Card,Downtown,05:43:23 PM,16-04-2024,New,4,Tuesday
+256,Cocoa,38,2,77,20,61,Cash,Mall,06:09:05 PM,16-04-2024,Old,3,Tuesday
+257,Americano,28,1,28,10,26,Mobile Payment,Airport,01:33:00 PM,17-04-2024,Old,4,Wednesday
+258,Espresso,24,2,48,20,38,Mobile Payment,Downtown,01:44:00 PM,17-04-2024,Old,3,Wednesday
+259,Cappuccino,38,2,77,15,65,Mobile Payment,Downtown,05:01:35 PM,17-04-2024,Old,1,Wednesday
+260,Cappuccino,38,3,116,20,92,Card,Airport,05:02:41 PM,17-04-2024,New,1,Wednesday
+261,Cortado,28,1,28,0,28,Card,Airport,06:14:03 PM,17-04-2024,New,4,Wednesday
+262,Americano,28,3,86,10,78,Mobile Payment,Mall,11:19:02 AM,18-04-2024,Old,2,Thursday
+263,Americano,28,1,28,5,27,Cash,University,11:20:06 AM,18-04-2024,New,1,Thursday
+264,Americano with Milk,33,2,67,10,60,Mobile Payment,Mall,01:49:13 PM,18-04-2024,New,2,Thursday
+265,Cortado,28,1,28,15,24,Cash,Mall,01:50:17 PM,18-04-2024,New,3,Thursday
+266,Cappuccino,38,3,116,10,104,Card,University,02:34:20 PM,18-04-2024,New,2,Thursday
+267,Latte,38,1,38,15,32,Cash,Mall,02:35:49 PM,18-04-2024,New,1,Thursday
+268,Latte,38,1,38,20,30,Cash,University,05:44:16 PM,18-04-2024,Old,4,Thursday
+269,Cappuccino,38,2,77,20,61,Mobile Payment,Mall,06:21:06 PM,18-04-2024,New,5,Thursday
+270,Hot Chocolate,38,3,116,15,98,Card,Downtown,07:39:51 PM,18-04-2024,New,3,Thursday
+271,Hot Chocolate,38,1,38,15,32,Cash,Downtown,07:40:49 PM,18-04-2024,New,3,Thursday
+272,Latte,38,3,116,10,104,Cash,Mall,10:10:36 AM,19-04-2024,Old,1,Friday
+273,Americano with Milk,33,1,33,15,28,Card,Downtown,01:11:48 PM,19-04-2024,Old,2,Friday
+274,Cappuccino,38,1,38,20,30,Mobile Payment,Airport,01:13:21 PM,19-04-2024,New,4,Friday
+275,Hot Chocolate,38,3,116,20,92,Card,Airport,01:58:54 PM,19-04-2024,Old,1,Friday
+276,Cappuccino,38,1,38,10,34,Cash,Airport,01:59:50 PM,19-04-2024,New,4,Friday
+277,Cocoa,38,2,77,10,69,Mobile Payment,University,06:23:19 PM,19-04-2024,Old,5,Friday
+278,Americano with Milk,33,2,67,15,57,Card,Mall,06:25:33 PM,19-04-2024,New,3,Friday
+279,Americano with Milk,33,2,67,10,60,Mobile Payment,Airport,12:08:36 PM,20-04-2024,New,3,Saturday
+280,Americano with Milk,33,1,33,5,32,Mobile Payment,University,12:09:43 PM,20-04-2024,New,3,Saturday
+281,Americano,28,3,86,15,73,Mobile Payment,Mall,01:08:37 PM,20-04-2024,Old,3,Saturday
+282,Americano with Milk,33,1,33,5,32,Mobile Payment,Mall,01:09:48 PM,20-04-2024,Old,3,Saturday
+283,Hot Chocolate,38,2,77,0,77,Card,University,01:10:55 PM,20-04-2024,Old,3,Saturday
+284,Cappuccino,38,3,116,5,110,Card,Downtown,02:44:18 PM,20-04-2024,New,3,Saturday
+285,Americano with Milk,33,2,67,0,67,Cash,Mall,03:11:00 PM,20-04-2024,Old,5,Saturday
+286,Americano with Milk,32,3,98,15,83,Card,University,03:22:41 PM,20-04-2024,Old,4,Saturday
+287,Americano with Milk,32,2,65,20,52,Card,Mall,03:49:25 PM,20-04-2024,New,5,Saturday
+288,Cappuccino,37,3,113,15,96,Card,University,06:27:41 PM,20-04-2024,Old,4,Saturday
+289,Cappuccino,37,2,75,20,60,Card,Mall,06:28:47 PM,20-04-2024,New,1,Saturday
+290,Latte,37,1,37,5,35,Cash,University,07:30:55 PM,20-04-2024,Old,4,Saturday
+291,Latte,37,2,75,20,60,Mobile Payment,University,11:16:46 AM,21-04-2024,New,5,Sunday
+292,Americano,27,1,27,15,23,Card,Downtown,02:15:38 PM,21-04-2024,Old,2,Sunday
+293,Americano,27,2,55,5,53,Cash,Airport,11:09:16 AM,22-04-2024,New,1,Monday
+294,Americano with Milk,32,2,65,10,59,Card,Airport,11:29:27 AM,22-04-2024,Old,1,Monday
+295,Latte,37,3,113,0,113,Card,University,07:39:05 PM,22-04-2024,Old,4,Monday
+296,Cappuccino,37,2,75,10,67,Mobile Payment,Mall,02:22:36 PM,23-04-2024,New,1,Tuesday
+297,Americano with Milk,32,3,98,5,93,Mobile Payment,Mall,02:23:53 PM,23-04-2024,New,1,Tuesday
+298,Cappuccino,37,1,37,0,37,Mobile Payment,Downtown,02:24:58 PM,23-04-2024,Old,2,Tuesday
+299,Americano with Milk,32,2,65,15,55,Mobile Payment,Airport,07:42:28 PM,23-04-2024,Old,5,Tuesday
+300,Americano with Milk,32,1,32,15,27,Card,Airport,07:43:26 PM,23-04-2024,Old,2,Tuesday
+301,Latte,37,1,37,15,32,Mobile Payment,Downtown,10:19:38 AM,24-04-2024,Old,4,Wednesday
+302,Americano with Milk,32,3,98,20,78,Card,University,10:21:27 AM,24-04-2024,New,1,Wednesday
+303,Americano with Milk,32,1,32,5,31,Cash,Downtown,11:23:46 AM,24-04-2024,Old,3,Wednesday
+304,Americano with Milk,32,2,65,10,59,Cash,University,11:33:26 AM,24-04-2024,New,5,Wednesday
+305,Americano with Milk,32,1,32,10,29,Cash,Airport,12:39:09 PM,24-04-2024,Old,1,Wednesday
+306,Americano with Milk,32,3,98,10,88,Cash,Mall,04:39:07 PM,24-04-2024,Old,4,Wednesday
+307,Americano with Milk,32,1,32,0,32,Mobile Payment,Mall,07:39:50 PM,24-04-2024,New,1,Wednesday
+308,Cappuccino,37,2,75,20,60,Mobile Payment,Downtown,07:40:54 PM,24-04-2024,Old,2,Wednesday
+309,Americano,27,1,27,10,25,Cash,Downtown,10:46:08 AM,25-04-2024,New,3,Thursday
+310,Latte,37,2,75,20,60,Cash,Airport,03:18:27 PM,25-04-2024,Old,2,Thursday
+311,Americano,27,2,55,0,55,Mobile Payment,Mall,05:09:44 PM,25-04-2024,Old,4,Thursday
+312,Americano,27,3,83,5,79,Card,Downtown,05:10:49 PM,25-04-2024,New,4,Thursday
+313,Latte,37,1,37,0,37,Card,University,10:12:51 AM,26-04-2024,Old,3,Friday
+314,Latte,37,3,113,5,107,Card,Airport,12:01:31 PM,26-04-2024,Old,4,Friday
+315,Cappuccino,37,3,113,0,113,Card,University,01:31:28 PM,26-04-2024,New,1,Friday
+316,Americano,27,1,27,5,26,Mobile Payment,Downtown,03:32:35 PM,26-04-2024,New,4,Friday
+317,Americano,27,1,27,5,26,Mobile Payment,Mall,03:33:33 PM,26-04-2024,New,5,Friday
+318,Cortado,27,3,83,0,83,Mobile Payment,Airport,04:23:27 PM,26-04-2024,Old,2,Friday
+319,Americano,27,3,83,20,67,Cash,Mall,04:24:34 PM,26-04-2024,Old,3,Friday
+320,Hot Chocolate,37,3,113,20,90,Card,University,07:32:07 PM,26-04-2024,Old,5,Friday
+321,Cocoa,37,2,75,15,64,Card,Downtown,07:33:30 PM,26-04-2024,New,2,Friday
+322,Cappuccino,37,3,113,0,113,Card,Mall,03:27:01 PM,27-04-2024,Old,3,Saturday
+323,Latte,37,2,75,10,67,Cash,Mall,10:32:52 AM,28-04-2024,New,4,Sunday
+324,Cappuccino,37,3,113,20,90,Mobile Payment,Downtown,12:30:10 PM,28-04-2024,Old,4,Sunday
+325,Americano,27,2,55,20,44,Card,Mall,06:27:08 PM,28-04-2024,Old,4,Sunday
+326,Americano,27,3,83,0,83,Cash,Downtown,06:28:11 PM,28-04-2024,Old,3,Sunday
+327,Latte,37,2,75,0,75,Card,University,06:29:02 PM,28-04-2024,New,3,Sunday
+328,Cortado,27,3,83,0,83,Mobile Payment,University,11:26:32 AM,29-04-2024,Old,3,Monday
+329,Americano,27,1,27,10,25,Card,Airport,01:27:57 PM,29-04-2024,New,3,Monday
+330,Cortado,27,3,83,0,83,Card,Mall,01:28:54 PM,29-04-2024,New,1,Monday
+331,Cortado,27,3,83,5,79,Mobile Payment,Airport,01:53:36 PM,29-04-2024,New,2,Monday
+332,Americano with Milk,32,3,98,10,88,Card,Downtown,01:54:24 PM,29-04-2024,Old,2,Monday
+333,Cappuccino,37,2,75,20,60,Cash,Mall,06:37:48 PM,29-04-2024,Old,3,Monday
+334,Cappuccino,37,3,113,10,101,Card,Airport,07:12:33 PM,29-04-2024,New,2,Monday
+335,Cappuccino,37,2,75,5,71,Card,Airport,07:13:38 PM,29-04-2024,New,3,Monday
+336,Latte,37,3,113,0,113,Cash,Airport,10:16:41 AM,30-04-2024,Old,2,Tuesday
+337,Americano with Milk,32,3,98,15,83,Mobile Payment,Mall,10:34:52 AM,30-04-2024,New,1,Tuesday
+338,Americano with Milk,32,2,65,10,59,Card,Downtown,10:35:48 AM,30-04-2024,Old,1,Tuesday
+339,Americano,27,2,55,5,53,Mobile Payment,Airport,01:41:52 PM,30-04-2024,New,4,Tuesday
+340,Americano with Milk,32,2,65,10,59,Cash,Mall,01:43:00 PM,30-04-2024,New,5,Tuesday
+341,Cappuccino,37,3,113,0,113,Card,University,07:19:18 PM,30-04-2024,New,1,Tuesday
+342,Americano with Milk,32,2,65,10,59,Card,Mall,07:30:04 PM,30-04-2024,Old,3,Tuesday
+343,Latte,37,3,113,10,101,Mobile Payment,Mall,07:31:21 PM,30-04-2024,New,2,Tuesday
+344,Americano,27,2,55,20,44,Mobile Payment,Downtown,10:33:56 AM,02-05-2024,New,5,Thursday
+345,Americano with Milk,32,3,98,5,93,Mobile Payment,Airport,01:49:40 PM,02-05-2024,Old,2,Thursday
+346,Cappuccino,37,3,113,10,101,Mobile Payment,University,06:36:22 PM,02-05-2024,Old,3,Thursday
+347,Americano with Milk,32,1,32,20,26,Mobile Payment,Mall,06:41:11 PM,02-05-2024,Old,2,Thursday
+348,Latte,37,3,113,0,113,Card,Mall,07:18:33 PM,02-05-2024,New,3,Thursday
+349,Cappuccino,37,1,37,10,33,Card,Airport,07:19:56 PM,02-05-2024,Old,1,Thursday
+350,Latte,37,2,75,10,67,Mobile Payment,University,02:30:01 PM,03-05-2024,New,4,Friday
+351,Latte,37,3,113,15,96,Mobile Payment,Downtown,05:03:25 PM,03-05-2024,New,1,Friday
+352,Americano,27,3,83,10,75,Card,Mall,10:05:18 AM,06-05-2024,Old,3,Monday
+353,Cappuccino,37,3,113,10,101,Mobile Payment,Airport,10:06:52 AM,06-05-2024,Old,1,Monday
+354,Americano with Milk,32,3,98,5,93,Card,Downtown,10:08:06 AM,06-05-2024,Old,2,Monday
+355,Americano,27,1,27,10,25,Mobile Payment,University,10:09:08 AM,06-05-2024,New,1,Monday
+356,Cortado,27,1,27,5,26,Card,Mall,10:39:13 AM,06-05-2024,New,1,Monday
+357,Cortado,27,3,83,15,71,Card,Mall,01:18:11 PM,06-05-2024,Old,3,Monday
+358,Americano,27,1,27,10,25,Cash,Airport,01:19:01 PM,06-05-2024,New,5,Monday
+359,Cappuccino,37,3,113,0,113,Card,Downtown,07:18:13 PM,06-05-2024,Old,1,Monday
+360,Cappuccino,37,1,37,5,35,Cash,University,07:19:50 PM,06-05-2024,Old,1,Monday
+361,Cocoa,37,3,113,10,101,Card,Downtown,10:44:56 AM,07-05-2024,New,1,Tuesday
+362,Cortado,27,2,55,10,50,Mobile Payment,Airport,11:21:58 AM,07-05-2024,New,3,Tuesday
+363,Cortado,27,2,55,10,50,Mobile Payment,Mall,01:23:35 PM,07-05-2024,New,5,Tuesday
+364,Cocoa,37,1,37,10,33,Cash,University,04:42:08 PM,07-05-2024,New,2,Tuesday
+365,Americano,27,3,83,5,79,Mobile Payment,Downtown,04:55:39 PM,07-05-2024,Old,2,Tuesday
+366,Cappuccino,37,1,37,5,35,Cash,Mall,05:37:46 PM,07-05-2024,New,4,Tuesday
+367,Latte,37,1,37,20,30,Card,University,05:38:48 PM,07-05-2024,New,4,Tuesday
+368,Cappuccino,37,2,75,20,60,Cash,University,07:12:13 PM,07-05-2024,Old,3,Tuesday
+369,Cappuccino,37,3,113,20,90,Card,Mall,07:13:12 PM,07-05-2024,Old,3,Tuesday
+370,Latte,37,3,113,10,101,Mobile Payment,Mall,10:07:29 AM,08-05-2024,Old,4,Wednesday
+371,Cappuccino,37,2,75,20,60,Cash,Airport,12:54:22 PM,09-05-2024,Old,4,Thursday
+372,Americano,27,3,83,10,75,Cash,Airport,01:03:59 PM,09-05-2024,Old,5,Thursday
+373,Latte,37,3,113,20,90,Cash,Downtown,01:04:58 PM,09-05-2024,New,1,Thursday
+374,Latte,37,2,75,15,64,Card,University,01:06:11 PM,09-05-2024,Old,2,Thursday
+375,Latte,37,2,75,15,64,Mobile Payment,Mall,01:07:16 PM,09-05-2024,New,3,Thursday
+376,Americano,27,2,55,0,55,Card,Downtown,04:55:15 PM,09-05-2024,Old,5,Thursday
+377,Americano,27,3,83,10,75,Cash,University,04:56:15 PM,09-05-2024,Old,2,Thursday
+378,Americano,27,1,27,20,22,Mobile Payment,Downtown,06:01:30 PM,09-05-2024,New,5,Thursday
+379,Americano with Milk,32,1,32,10,29,Cash,Downtown,06:13:56 PM,09-05-2024,New,4,Thursday
+380,Latte,37,3,113,0,113,Cash,Mall,03:46:22 PM,10-05-2024,Old,3,Friday
+381,Latte,37,1,37,0,37,Card,University,03:47:33 PM,10-05-2024,Old,1,Friday
+382,Latte,37,1,37,20,30,Cash,Downtown,11:39:53 AM,11-05-2024,Old,3,Saturday
+383,Americano with Milk,32,2,65,5,62,Cash,University,05:20:30 PM,11-05-2024,Old,5,Saturday
+384,Cocoa,37,1,37,20,30,Card,Mall,05:21:56 PM,11-05-2024,Old,1,Saturday
+385,Cappuccino,37,3,113,15,96,Card,Downtown,05:23:57 PM,11-05-2024,Old,1,Saturday
+386,Americano with Milk,32,2,65,20,52,Mobile Payment,University,05:28:54 PM,11-05-2024,New,5,Saturday
+387,Cappuccino,37,1,37,5,35,Cash,University,06:35:40 PM,11-05-2024,Old,4,Saturday
+388,Latte,37,3,113,10,101,Mobile Payment,University,07:38:16 PM,11-05-2024,New,3,Saturday
+389,Latte,37,2,75,20,60,Mobile Payment,Mall,10:20:43 AM,12-05-2024,Old,1,Sunday
+390,Latte,37,1,37,10,33,Mobile Payment,Downtown,01:24:03 PM,12-05-2024,Old,4,Sunday
+391,Americano,27,2,55,15,47,Mobile Payment,Airport,01:27:39 PM,12-05-2024,New,2,Sunday
+392,Latte,37,2,75,20,60,Card,Mall,03:16:20 PM,12-05-2024,Old,4,Sunday
+393,Americano with Milk,32,3,98,0,98,Card,Mall,03:38:02 PM,12-05-2024,Old,1,Sunday
+394,Americano with Milk,32,3,98,5,93,Cash,University,03:52:15 PM,12-05-2024,Old,5,Sunday
+395,Americano with Milk,32,1,32,15,27,Mobile Payment,University,04:04:21 PM,12-05-2024,New,3,Sunday
+396,Americano with Milk,32,2,65,5,62,Cash,University,07:41:31 PM,12-05-2024,Old,3,Sunday
+397,Americano with Milk,32,2,65,15,55,Card,Airport,11:03:53 AM,13-05-2024,Old,2,Monday
+398,Americano,27,3,83,15,71,Mobile Payment,Airport,08:38:15 AM,14-05-2024,New,2,Tuesday
+399,Americano,27,2,55,15,47,Card,Airport,08:39:25 AM,14-05-2024,New,2,Tuesday
+400,Americano,27,3,83,5,79,Card,University,08:40:17 AM,14-05-2024,New,5,Tuesday
+401,Cappuccino,37,2,75,15,64,Cash,Airport,10:19:23 AM,14-05-2024,New,5,Tuesday
+402,Latte,37,3,113,5,107,Cash,Downtown,11:32:29 AM,14-05-2024,Old,4,Tuesday
+403,Cappuccino,37,1,37,20,30,Mobile Payment,Downtown,11:34:13 AM,14-05-2024,New,5,Tuesday
+404,Cappuccino,37,3,113,5,107,Card,Mall,02:04:55 PM,14-05-2024,New,5,Tuesday
+405,Americano with Milk,32,2,65,10,59,Card,Airport,02:06:00 PM,14-05-2024,New,5,Tuesday
+406,Americano,27,1,27,10,25,Cash,Airport,03:01:55 PM,14-05-2024,New,5,Tuesday
+407,Americano with Milk,32,2,65,20,52,Mobile Payment,Airport,04:57:57 PM,14-05-2024,Old,3,Tuesday
+408,Cappuccino,37,1,37,20,30,Cash,University,04:59:10 PM,14-05-2024,New,3,Tuesday
+409,Hot Chocolate,37,2,75,0,75,Card,Mall,10:51:25 PM,14-05-2024,Old,1,Tuesday
+410,Latte,37,3,113,20,90,Cash,Airport,08:40:06 AM,15-05-2024,Old,4,Wednesday
+411,Espresso,23,3,69,5,65,Mobile Payment,Airport,11:14:19 AM,15-05-2024,New,1,Wednesday
+412,Americano,27,3,83,20,67,Cash,Downtown,11:19:10 AM,15-05-2024,Old,2,Wednesday
+413,Americano,27,2,55,0,55,Mobile Payment,University,01:34:35 PM,15-05-2024,Old,1,Wednesday
+414,Americano,27,1,27,5,26,Mobile Payment,Airport,01:35:29 PM,15-05-2024,New,1,Wednesday
+415,Americano,27,1,27,10,25,Cash,Mall,01:36:27 PM,15-05-2024,New,2,Wednesday
+416,Americano with Milk,32,2,65,5,62,Cash,University,01:55:29 PM,15-05-2024,Old,4,Wednesday
+417,Cortado,27,2,55,15,47,Mobile Payment,Airport,02:38:52 PM,15-05-2024,New,4,Wednesday
+418,Cortado,27,1,27,5,26,Cash,Downtown,02:39:44 PM,15-05-2024,Old,1,Wednesday
+419,Espresso,23,1,23,15,19,Cash,Downtown,05:28:59 PM,15-05-2024,Old,3,Wednesday
+420,Cappuccino,37,2,75,15,64,Mobile Payment,Airport,08:20:35 PM,15-05-2024,Old,4,Wednesday
+421,Americano with Milk,32,3,98,20,78,Mobile Payment,University,10:38:42 AM,16-05-2024,New,3,Thursday
+422,Americano with Milk,32,2,65,20,52,Cash,University,10:39:49 AM,16-05-2024,Old,5,Thursday
+423,Americano with Milk,32,2,65,15,55,Card,Downtown,12:14:00 PM,16-05-2024,New,5,Thursday
+424,Hot Chocolate,37,1,37,10,33,Mobile Payment,Airport,03:15:16 PM,16-05-2024,Old,3,Thursday
+425,Latte,37,1,37,10,33,Cash,Mall,05:44:32 PM,16-05-2024,Old,4,Thursday
+426,Hot Chocolate,37,2,75,15,64,Mobile Payment,Airport,06:12:57 PM,16-05-2024,New,4,Thursday
+427,Latte,37,1,37,20,30,Card,Airport,06:13:58 PM,16-05-2024,Old,3,Thursday
+428,Americano,27,2,55,20,44,Mobile Payment,Mall,09:00:48 AM,17-05-2024,New,2,Friday
+429,Americano with Milk,32,3,98,0,98,Cash,Downtown,11:30:28 AM,17-05-2024,New,4,Friday
+430,Americano with Milk,32,3,98,0,98,Card,University,07:55:19 PM,17-05-2024,Old,3,Friday
+431,Cappuccino,37,1,37,20,30,Mobile Payment,Airport,07:56:47 PM,17-05-2024,Old,3,Friday
+432,Cappuccino,37,1,37,5,35,Card,Mall,08:37:53 PM,17-05-2024,New,3,Friday
+433,Americano,27,2,55,10,50,Mobile Payment,Mall,10:34:51 PM,17-05-2024,Old,4,Friday
+434,Latte,37,2,75,0,75,Cash,University,10:36:33 PM,17-05-2024,New,1,Friday
+435,Latte,37,1,37,10,33,Cash,Downtown,10:37:43 PM,17-05-2024,Old,1,Friday
+436,Cappuccino,37,2,75,10,67,Card,University,08:01:38 AM,18-05-2024,New,4,Saturday
+437,Cappuccino,37,1,37,5,35,Cash,University,08:02:40 AM,18-05-2024,Old,5,Saturday
+438,Americano with Milk,32,2,65,0,65,Cash,University,11:15:56 AM,18-05-2024,New,4,Saturday
+439,Americano with Milk,32,2,65,20,52,Cash,University,04:48:29 PM,18-05-2024,Old,5,Saturday
+440,Americano with Milk,32,2,65,0,65,Cash,Airport,04:49:27 PM,18-05-2024,Old,5,Saturday
+441,Americano with Milk,32,1,32,0,32,Card,Mall,07:58:44 PM,18-05-2024,Old,5,Saturday
+442,Latte,37,1,37,0,37,Card,Mall,08:22:53 PM,18-05-2024,New,4,Saturday
+443,Americano,27,3,83,10,75,Mobile Payment,Mall,07:58:38 AM,19-05-2024,New,5,Sunday
+444,Americano,27,3,83,20,67,Card,University,07:59:34 AM,19-05-2024,New,1,Sunday
+445,Cappuccino,37,1,37,10,33,Card,Mall,08:00:35 AM,19-05-2024,Old,3,Sunday
+446,Americano with Milk,32,2,65,0,65,Cash,University,12:14:27 PM,19-05-2024,Old,1,Sunday
+447,Americano,27,1,27,5,26,Card,University,02:43:40 PM,19-05-2024,New,4,Sunday
+448,Americano with Milk,32,2,65,20,52,Card,University,03:58:58 PM,19-05-2024,New,1,Sunday
+449,Americano with Milk,32,1,32,10,29,Cash,Downtown,06:12:36 PM,19-05-2024,Old,1,Sunday
+450,Espresso,23,1,23,20,18,Card,Downtown,06:13:48 PM,19-05-2024,New,5,Sunday
+451,Hot Chocolate,37,1,37,15,32,Mobile Payment,Downtown,06:16:30 PM,19-05-2024,Old,2,Sunday
+452,Cappuccino,37,2,75,10,67,Card,University,07:51:07 PM,19-05-2024,Old,2,Sunday
+453,Cappuccino,37,3,113,5,107,Mobile Payment,Downtown,09:15:42 PM,19-05-2024,Old,5,Sunday
+454,Cappuccino,37,2,75,5,71,Card,Mall,09:18:36 PM,19-05-2024,New,4,Sunday
+455,Americano with Milk,32,3,98,15,83,Mobile Payment,Mall,10:05:59 AM,20-05-2024,New,2,Monday
+456,Latte,37,1,37,5,35,Cash,University,10:17:52 AM,20-05-2024,New,3,Monday
+457,Latte,37,2,75,15,64,Mobile Payment,Airport,10:58:48 AM,20-05-2024,Old,5,Monday
+458,Americano,27,3,83,0,83,Mobile Payment,University,11:15:16 AM,20-05-2024,New,2,Monday
+459,Americano,27,2,55,20,44,Card,Mall,11:16:20 AM,20-05-2024,Old,5,Monday
+460,Americano,27,2,55,0,55,Cash,Airport,01:27:13 PM,20-05-2024,New,2,Monday
+461,Americano,27,3,83,15,71,Mobile Payment,Downtown,01:28:10 PM,20-05-2024,Old,1,Monday
+462,Americano with Milk,32,3,98,10,88,Mobile Payment,Airport,02:13:19 PM,20-05-2024,Old,3,Monday
+463,Cappuccino,37,1,37,10,33,Card,Downtown,02:14:31 PM,20-05-2024,Old,5,Monday
+464,Latte,37,1,37,20,30,Card,Airport,05:12:51 PM,20-05-2024,New,3,Monday
+465,Latte,37,3,113,20,90,Cash,University,05:13:57 PM,20-05-2024,New,5,Monday
+466,Americano with Milk,32,3,98,5,93,Card,Airport,08:36:48 PM,20-05-2024,New,1,Monday
+467,Cocoa,37,2,75,0,75,Mobile Payment,Airport,08:37:57 PM,20-05-2024,New,3,Monday
+468,Cortado,27,2,55,5,53,Card,Downtown,08:46:52 PM,20-05-2024,Old,1,Monday
+469,Americano with Milk,32,2,65,10,59,Mobile Payment,Airport,09:36:54 PM,20-05-2024,Old,1,Monday
+470,Americano with Milk,32,3,98,10,88,Card,Downtown,09:37:58 PM,20-05-2024,New,1,Monday
+471,Latte,37,2,75,10,67,Mobile Payment,Mall,08:27:38 AM,21-05-2024,New,3,Tuesday
+472,Latte,37,2,75,5,71,Mobile Payment,Downtown,04:10:20 PM,21-05-2024,New,5,Tuesday
+473,Espresso,23,1,23,10,20,Mobile Payment,Downtown,06:13:24 PM,21-05-2024,Old,5,Tuesday
+474,Cappuccino,37,3,113,20,90,Card,Mall,07:11:09 PM,21-05-2024,Old,3,Tuesday
+475,Cappuccino,37,1,37,15,32,Mobile Payment,University,08:13:48 PM,21-05-2024,New,1,Tuesday
+476,Cappuccino,37,1,37,20,30,Card,University,09:34:42 AM,22-05-2024,Old,2,Wednesday
+477,Americano with Milk,32,3,98,5,93,Cash,Mall,10:49:47 AM,22-05-2024,New,2,Wednesday
+478,Cortado,27,2,55,0,55,Card,Downtown,11:18:14 AM,22-05-2024,Old,3,Wednesday
+479,Americano with Milk,32,2,65,5,62,Cash,Mall,11:34:55 AM,22-05-2024,Old,3,Wednesday
+480,Americano,27,3,83,0,83,Cash,Mall,12:29:51 PM,22-05-2024,New,5,Wednesday
+481,Americano,27,2,55,20,44,Cash,University,12:30:43 PM,22-05-2024,New,2,Wednesday
+482,Americano with Milk,32,1,32,20,26,Cash,Mall,02:00:20 PM,22-05-2024,New,1,Wednesday
+483,Cappuccino,37,1,37,15,32,Cash,Mall,07:24:58 PM,22-05-2024,Old,1,Wednesday
+484,Cappuccino,37,3,113,5,107,Mobile Payment,University,07:25:59 PM,22-05-2024,New,4,Wednesday
+485,Hot Chocolate,37,1,37,20,30,Cash,Airport,09:23:53 PM,22-05-2024,Old,4,Wednesday
+486,Cappuccino,37,2,75,15,64,Cash,Airport,09:24:50 PM,22-05-2024,New,2,Wednesday
+487,Cappuccino,37,2,75,20,60,Cash,Airport,10:10:20 AM,23-05-2024,Old,4,Thursday
+488,Espresso,23,2,46,15,39,Cash,University,12:22:07 PM,23-05-2024,Old,3,Thursday
+489,Cappuccino,37,2,75,5,71,Cash,Mall,03:55:17 PM,23-05-2024,New,3,Thursday
+490,Cappuccino,37,3,113,5,107,Card,Airport,03:56:27 PM,23-05-2024,New,4,Thursday
+491,Cappuccino,37,1,37,0,37,Cash,University,04:18:14 PM,23-05-2024,Old,2,Thursday
+492,Latte,37,2,75,0,75,Mobile Payment,Downtown,04:41:00 PM,23-05-2024,New,5,Thursday
+493,Cappuccino,37,1,37,10,33,Cash,Mall,05:14:33 PM,23-05-2024,New,3,Thursday
+494,Latte,37,3,113,5,107,Mobile Payment,University,05:15:45 PM,23-05-2024,New,4,Thursday
+495,Cortado,27,1,27,0,27,Mobile Payment,Downtown,07:03:54 PM,23-05-2024,New,1,Thursday
+496,Cappuccino,37,3,113,15,96,Cash,Airport,07:17:28 PM,23-05-2024,New,4,Thursday
+497,Cappuccino,37,2,75,10,67,Card,Mall,07:18:26 PM,23-05-2024,New,4,Thursday
+498,Cappuccino,37,3,113,0,113,Cash,University,07:42:32 PM,23-05-2024,New,3,Thursday
+499,Cappuccino,37,3,113,5,107,Cash,Downtown,08:15:01 PM,23-05-2024,Old,2,Thursday
+500,Latte,37,1,37,5,35,Mobile Payment,Downtown,08:16:24 PM,23-05-2024,Old,5,Thursday
+501,Americano with Milk,32,3,98,15,83,Mobile Payment,Airport,10:48:11 PM,23-05-2024,New,5,Thursday
+502,Cortado,27,1,27,15,23,Card,Downtown,11:11:59 AM,24-05-2024,New,1,Friday
+503,Americano,27,1,27,5,26,Card,Downtown,11:15:08 AM,24-05-2024,New,2,Friday
+504,Americano,27,2,55,10,50,Cash,University,11:16:13 AM,24-05-2024,New,4,Friday
+505,Hot Chocolate,37,3,113,15,96,Card,Mall,04:07:20 PM,24-05-2024,New,2,Friday
+506,Cortado,27,2,55,10,50,Mobile Payment,Airport,06:17:40 PM,24-05-2024,New,5,Friday
+507,Cortado,27,3,83,0,83,Cash,University,06:18:37 PM,24-05-2024,New,3,Friday
+508,Americano with Milk,32,3,98,20,78,Card,University,10:30:40 PM,24-05-2024,New,5,Friday
+509,Latte,37,3,113,10,101,Card,Airport,12:13:53 PM,25-05-2024,New,4,Saturday
+510,Americano with Milk,32,3,98,15,83,Card,Downtown,12:42:10 PM,25-05-2024,New,3,Saturday
+511,Americano with Milk,32,3,98,5,93,Cash,Mall,12:43:13 PM,25-05-2024,Old,5,Saturday
+512,Americano with Milk,32,3,98,5,93,Cash,Downtown,12:58:12 PM,25-05-2024,New,2,Saturday
+513,Americano with Milk,32,2,65,0,65,Cash,University,04:47:10 PM,25-05-2024,Old,2,Saturday
+514,Americano,27,2,55,0,55,Mobile Payment,University,04:48:17 PM,25-05-2024,Old,2,Saturday
+515,Latte,37,2,75,15,64,Card,Downtown,10:20:02 AM,26-05-2024,Old,5,Sunday
+516,Americano with Milk,32,2,65,20,52,Card,University,02:24:50 PM,26-05-2024,New,1,Sunday
+517,Cortado,27,3,83,15,71,Cash,Mall,02:26:05 PM,26-05-2024,Old,1,Sunday
+518,Americano with Milk,32,1,32,10,29,Mobile Payment,Mall,02:40:59 PM,26-05-2024,New,1,Sunday
+519,Cappuccino,37,1,37,0,37,Cash,Downtown,05:19:16 PM,26-05-2024,Old,4,Sunday
+520,Hot Chocolate,37,2,75,0,75,Cash,Downtown,06:09:53 PM,26-05-2024,Old,2,Sunday
+521,Hot Chocolate,37,3,113,5,107,Card,Downtown,06:11:02 PM,26-05-2024,New,5,Sunday
+522,Americano,27,3,83,5,79,Card,Mall,06:13:14 PM,26-05-2024,New,5,Sunday
+523,Latte,37,3,113,20,90,Mobile Payment,University,06:39:19 PM,26-05-2024,Old,3,Sunday
+524,Hot Chocolate,37,2,75,15,64,Mobile Payment,University,08:59:15 PM,26-05-2024,Old,3,Sunday
+525,Cappuccino,37,1,37,15,32,Cash,University,09:00:06 PM,26-05-2024,Old,5,Sunday
+526,Cortado,27,2,55,5,53,Cash,Downtown,09:02:37 PM,26-05-2024,Old,2,Sunday
+527,Cappuccino,37,1,37,15,32,Card,Downtown,09:03:52 PM,26-05-2024,New,4,Sunday
+528,Latte,37,1,37,20,30,Mobile Payment,Mall,09:04:59 PM,26-05-2024,New,3,Sunday
+529,Cappuccino,37,1,37,5,35,Cash,University,09:06:03 PM,26-05-2024,Old,2,Sunday
+530,Americano,27,1,27,20,22,Mobile Payment,Downtown,11:34:55 AM,27-05-2024,New,2,Monday
+531,Americano with Milk,32,2,65,10,59,Card,Downtown,02:05:22 PM,27-05-2024,Old,1,Monday
+532,Cocoa,37,1,37,10,33,Cash,Downtown,02:06:44 PM,27-05-2024,New,1,Monday
+533,Americano,27,3,83,15,71,Mobile Payment,Mall,03:11:34 PM,27-05-2024,New,4,Monday
+534,Americano,27,3,83,15,71,Cash,University,03:14:06 PM,27-05-2024,Old,2,Monday
+535,Latte,37,1,37,0,37,Mobile Payment,University,05:50:56 PM,27-05-2024,New,1,Monday
+536,Americano,27,1,27,10,25,Cash,University,06:00:51 PM,27-05-2024,New,2,Monday
+537,Latte,37,2,75,5,71,Mobile Payment,Downtown,07:16:27 PM,27-05-2024,New,1,Monday
+538,Latte,37,3,113,5,107,Cash,University,07:17:39 PM,27-05-2024,Old,3,Monday
+539,Americano with Milk,32,3,98,0,98,Card,Mall,09:29:07 PM,27-05-2024,New,2,Monday
+540,Cappuccino,37,1,37,5,35,Card,University,09:30:20 PM,27-05-2024,New,4,Monday
+541,Americano with Milk,32,1,32,15,27,Cash,Downtown,08:37:09 AM,28-05-2024,New,3,Tuesday
+542,Americano with Milk,32,3,98,0,98,Card,Mall,09:20:11 AM,28-05-2024,New,5,Tuesday
+543,Cappuccino,37,2,75,10,67,Cash,Airport,11:48:18 AM,28-05-2024,Old,1,Tuesday
+544,Cappuccino,37,1,37,0,37,Card,Airport,01:14:40 PM,28-05-2024,Old,1,Tuesday
+545,Cocoa,37,1,37,10,33,Cash,Downtown,02:10:54 PM,28-05-2024,New,1,Tuesday
+546,Cortado,27,1,27,15,23,Cash,Mall,04:25:39 PM,28-05-2024,Old,2,Tuesday
+547,Americano,27,3,83,15,71,Cash,Mall,07:09:29 PM,28-05-2024,Old,2,Tuesday
+548,Latte,37,1,37,0,37,Card,University,07:10:31 PM,28-05-2024,Old,4,Tuesday
+549,Americano with Milk,32,2,65,15,55,Mobile Payment,Airport,08:24:32 PM,28-05-2024,New,1,Tuesday
+550,Americano,27,1,27,20,22,Mobile Payment,Downtown,08:50:19 PM,28-05-2024,Old,5,Tuesday
+551,Latte,37,3,113,10,101,Cash,Airport,09:14:44 AM,29-05-2024,New,5,Wednesday
+552,Hot Chocolate,37,1,37,0,37,Card,Airport,11:14:03 AM,29-05-2024,Old,4,Wednesday
+553,Americano,27,1,27,5,26,Mobile Payment,Downtown,03:10:49 PM,29-05-2024,New,5,Wednesday
+554,Latte,37,3,113,0,113,Cash,Airport,03:22:56 PM,29-05-2024,New,5,Wednesday
+555,Cappuccino,37,3,113,10,101,Card,Airport,03:45:13 PM,29-05-2024,Old,5,Wednesday
+556,Latte,37,3,113,0,113,Cash,Downtown,04:45:04 PM,29-05-2024,New,2,Wednesday
+557,Cortado,27,3,83,15,71,Mobile Payment,Mall,06:24:03 PM,29-05-2024,Old,1,Wednesday
+558,Latte,37,1,37,15,32,Card,University,06:24:59 PM,29-05-2024,Old,1,Wednesday
+559,Hot Chocolate,37,3,113,5,107,Cash,Mall,08:30:42 PM,29-05-2024,New,1,Wednesday
+560,Cocoa,37,3,113,0,113,Card,Airport,08:32:35 PM,29-05-2024,Old,2,Wednesday
+561,Cappuccino,37,1,37,20,30,Mobile Payment,University,08:29:06 AM,30-05-2024,Old,4,Thursday
+562,Latte,37,2,75,15,64,Cash,Airport,08:30:22 AM,30-05-2024,New,1,Thursday
+563,Americano with Milk,32,2,65,15,55,Cash,Airport,08:37:05 AM,30-05-2024,New,4,Thursday
+564,Latte,37,2,75,20,60,Mobile Payment,Mall,09:47:59 AM,30-05-2024,New,1,Thursday
+565,Americano with Milk,32,2,65,0,65,Cash,Downtown,02:56:15 PM,30-05-2024,New,1,Thursday
+566,Espresso,23,2,46,15,39,Cash,Airport,03:16:16 PM,30-05-2024,New,5,Thursday
+567,Espresso,23,3,69,20,55,Mobile Payment,Mall,03:17:39 PM,30-05-2024,New,2,Thursday
+568,Cappuccino,37,3,113,0,113,Card,Downtown,07:53:11 PM,30-05-2024,Old,4,Thursday
+569,Latte,37,2,75,20,60,Mobile Payment,Mall,08:31:05 PM,30-05-2024,New,4,Thursday
+570,Hot Chocolate,37,2,75,0,75,Cash,Downtown,08:46:14 PM,30-05-2024,Old,5,Thursday
+571,Americano with Milk,32,1,32,15,27,Card,University,08:47:22 PM,30-05-2024,Old,4,Thursday
+572,Americano with Milk,32,3,98,5,93,Card,Mall,07:53:57 AM,31-05-2024,New,2,Friday
+573,Latte,37,1,37,5,35,Mobile Payment,Downtown,09:21:08 AM,31-05-2024,Old,1,Friday
+574,Hot Chocolate,37,3,113,10,101,Card,Downtown,10:38:08 AM,31-05-2024,New,1,Friday
+575,Cocoa,37,2,75,20,60,Mobile Payment,Mall,10:39:06 AM,31-05-2024,New,2,Friday
+576,Americano with Milk,32,2,65,15,55,Cash,University,02:50:13 PM,31-05-2024,Old,1,Friday
+577,Latte,37,3,113,5,107,Mobile Payment,Mall,06:23:45 PM,31-05-2024,Old,4,Friday
+578,Latte,37,1,37,10,33,Cash,University,06:25:03 PM,31-05-2024,Old,1,Friday
+579,Cappuccino,37,2,75,20,60,Cash,Mall,08:06:39 PM,31-05-2024,New,5,Friday
+580,Americano with Milk,32,3,98,0,98,Cash,Downtown,08:33:06 PM,31-05-2024,New,3,Friday
+581,Latte,37,3,113,10,101,Card,University,08:34:33 PM,31-05-2024,New,4,Friday
+582,Cappuccino,37,1,37,15,32,Card,University,10:05:47 PM,31-05-2024,New,4,Friday
+583,Americano with Milk,32,2,65,10,59,Card,Airport,10:06:52 PM,31-05-2024,Old,2,Friday
+584,Cortado,27,1,27,10,25,Cash,University,10:07:55 PM,31-05-2024,New,1,Friday
+585,Cortado,27,3,83,0,83,Mobile Payment,Downtown,08:27:02 AM,01-06-2024,New,5,Saturday
+586,Latte,37,3,113,10,101,Card,Mall,09:48:25 AM,01-06-2024,Old,2,Saturday
+587,Latte,37,3,113,20,90,Card,University,11:38:09 AM,01-06-2024,Old,3,Saturday
+588,Americano with Milk,32,1,32,20,26,Cash,University,02:28:54 PM,01-06-2024,New,1,Saturday
+589,Americano with Milk,32,1,32,20,26,Mobile Payment,Mall,06:20:13 PM,01-06-2024,New,1,Saturday
+590,Americano with Milk,32,2,65,5,62,Card,University,06:21:15 PM,01-06-2024,New,3,Saturday
+591,Cappuccino,37,2,75,5,71,Card,Airport,08:50:10 PM,01-06-2024,New,5,Saturday
+592,Cappuccino,37,3,113,0,113,Cash,University,08:51:14 PM,01-06-2024,Old,5,Saturday
+593,Cocoa,37,1,37,0,37,Mobile Payment,University,08:59:10 PM,01-06-2024,Old,1,Saturday
+594,Americano with Milk,32,3,98,0,98,Card,University,09:51:05 PM,01-06-2024,Old,5,Saturday
+595,Latte,37,2,75,20,60,Mobile Payment,Airport,08:03:26 PM,02-06-2024,New,5,Sunday
+596,Americano with Milk,32,2,65,20,52,Card,Downtown,08:24:02 PM,02-06-2024,New,5,Sunday
+597,Cappuccino,37,3,113,5,107,Card,Airport,08:25:07 PM,02-06-2024,Old,2,Sunday
+598,Americano with Milk,32,2,65,10,59,Card,Airport,09:07:21 PM,02-06-2024,New,5,Sunday
+599,Latte,37,2,75,15,64,Mobile Payment,University,09:30:12 PM,02-06-2024,New,3,Sunday
+600,Latte,37,2,75,10,67,Card,University,10:12:04 AM,03-06-2024,New,3,Monday
+601,Latte,37,2,75,15,64,Card,Airport,10:27:50 AM,03-06-2024,New,2,Monday
+602,Cappuccino,37,3,113,10,101,Mobile Payment,Mall,02:31:42 PM,03-06-2024,Old,1,Monday
+603,Americano with Milk,32,3,98,5,93,Card,Downtown,02:33:01 PM,03-06-2024,Old,4,Monday
+604,Latte,37,3,113,10,101,Cash,University,02:34:07 PM,03-06-2024,Old,2,Monday
+605,Cortado,27,3,83,10,75,Cash,University,09:23:43 AM,04-06-2024,Old,2,Tuesday
+606,Americano with Milk,32,2,65,10,59,Card,University,10:27:14 AM,04-06-2024,Old,2,Tuesday
+607,Latte,37,2,75,5,71,Card,Airport,12:02:10 PM,04-06-2024,Old,1,Tuesday
+608,Hot Chocolate,37,2,75,15,64,Mobile Payment,Mall,12:05:29 PM,04-06-2024,Old,1,Tuesday
+609,Latte,37,3,113,15,96,Card,Airport,03:30:32 PM,04-06-2024,Old,2,Tuesday
+610,Cortado,27,1,27,0,27,Card,Airport,05:46:37 PM,04-06-2024,New,4,Tuesday
+611,Cappuccino,37,1,37,10,33,Cash,Airport,05:47:29 PM,04-06-2024,Old,1,Tuesday
+612,Hot Chocolate,37,1,37,0,37,Cash,Mall,08:13:01 PM,04-06-2024,New,2,Tuesday
+613,Cappuccino,37,1,37,0,37,Mobile Payment,Mall,08:50:34 PM,04-06-2024,Old,5,Tuesday
+614,Cortado,27,3,83,10,75,Cash,University,09:31:59 PM,04-06-2024,New,5,Tuesday
+615,Americano with Milk,32,2,65,5,62,Cash,Airport,09:33:03 PM,04-06-2024,Old,4,Tuesday
+616,Americano with Milk,32,1,32,5,31,Card,Mall,09:34:56 PM,04-06-2024,Old,2,Tuesday
+617,Americano with Milk,32,1,32,5,31,Mobile Payment,Downtown,09:36:07 PM,04-06-2024,Old,5,Tuesday
+618,Americano with Milk,32,1,32,20,26,Mobile Payment,Airport,09:37:15 PM,04-06-2024,Old,5,Tuesday
+619,Cappuccino,37,3,113,0,113,Cash,Airport,08:21:49 AM,05-06-2024,Old,3,Wednesday
+620,Cappuccino,37,3,113,20,90,Card,Airport,08:23:07 AM,05-06-2024,Old,5,Wednesday
+621,Americano,27,1,27,0,27,Card,University,09:22:43 AM,05-06-2024,New,3,Wednesday
+622,Latte,37,3,113,20,90,Mobile Payment,Airport,10:28:51 AM,05-06-2024,Old,4,Wednesday
+623,Americano with Milk,32,1,32,5,31,Card,Mall,10:40:53 AM,05-06-2024,Old,2,Wednesday
+624,Americano with Milk,32,3,98,20,78,Cash,University,07:43:58 PM,05-06-2024,Old,5,Wednesday
+625,Latte,37,2,75,0,75,Cash,Downtown,07:59:54 PM,05-06-2024,Old,3,Wednesday
+626,Cocoa,37,1,37,5,35,Mobile Payment,Mall,08:10:48 PM,05-06-2024,New,2,Wednesday
+627,Cortado,27,2,55,15,47,Card,Mall,08:12:02 PM,05-06-2024,Old,2,Wednesday
+628,Americano with Milk,32,1,32,10,29,Cash,University,08:52:56 AM,06-06-2024,Old,1,Thursday
+629,Americano with Milk,32,1,32,15,27,Cash,Airport,08:54:08 AM,06-06-2024,New,2,Thursday
+630,Latte,37,2,75,20,60,Card,Mall,10:36:10 AM,06-06-2024,Old,4,Thursday
+631,Americano,27,1,27,5,26,Card,Downtown,12:17:41 PM,06-06-2024,New,3,Thursday
+632,Americano with Milk,32,1,32,5,31,Cash,Downtown,03:11:14 PM,06-06-2024,Old,4,Thursday
+633,Cappuccino,37,1,37,10,33,Mobile Payment,Airport,03:24:06 PM,06-06-2024,New,5,Thursday
+634,Latte,37,1,37,5,35,Cash,Downtown,09:14:05 PM,06-06-2024,New,2,Thursday
+635,Latte,37,2,75,5,71,Mobile Payment,Airport,09:15:42 PM,06-06-2024,New,3,Thursday
+636,Cappuccino,37,1,37,0,37,Card,Airport,09:18:27 PM,06-06-2024,New,1,Thursday
+637,Americano with Milk,32,1,32,20,26,Mobile Payment,Downtown,09:19:30 PM,06-06-2024,Old,5,Thursday
+638,Latte,37,2,75,10,67,Mobile Payment,Downtown,09:21:04 PM,06-06-2024,New,4,Thursday
+639,Cappuccino,37,3,113,15,96,Mobile Payment,Mall,08:18:04 AM,07-06-2024,New,2,Friday
+640,Espresso,23,2,46,15,39,Mobile Payment,University,10:35:28 AM,07-06-2024,Old,4,Friday
+641,Americano with Milk,32,3,98,0,98,Mobile Payment,Airport,01:34:18 PM,07-06-2024,Old,5,Friday
+642,Cortado,27,2,55,10,50,Card,Airport,04:45:42 PM,07-06-2024,Old,3,Friday
+643,Cortado,27,1,27,20,22,Mobile Payment,Airport,04:47:15 PM,07-06-2024,New,5,Friday
+644,Cortado,27,2,55,0,55,Card,University,09:04:20 AM,08-06-2024,Old,2,Saturday
+645,Americano with Milk,32,1,32,0,32,Mobile Payment,Airport,09:26:11 AM,08-06-2024,New,4,Saturday
+646,Cappuccino,37,2,75,15,64,Mobile Payment,University,08:24:54 PM,08-06-2024,New,2,Saturday
+647,Cappuccino,37,2,75,0,75,Cash,Mall,08:25:56 PM,08-06-2024,New,3,Saturday
+648,Latte,37,1,37,5,35,Cash,Airport,08:15:53 AM,09-06-2024,Old,1,Sunday
+649,Latte,37,1,37,5,35,Mobile Payment,Downtown,10:30:04 AM,09-06-2024,New,1,Sunday
+650,Cappuccino,37,3,113,0,113,Mobile Payment,Mall,10:52:06 AM,09-06-2024,New,3,Sunday
+651,Cortado,27,1,27,0,27,Cash,University,11:04:41 AM,09-06-2024,New,2,Sunday
+652,Espresso,23,3,69,0,69,Cash,University,11:07:08 AM,09-06-2024,Old,1,Sunday
+653,Cappuccino,37,2,75,10,67,Cash,Airport,11:52:50 AM,09-06-2024,Old,4,Sunday
+654,Americano with Milk,32,1,32,5,31,Mobile Payment,Mall,12:11:24 PM,09-06-2024,New,3,Sunday
+655,Latte,37,3,113,10,101,Cash,Airport,12:13:08 PM,09-06-2024,New,4,Sunday
+656,Latte,37,1,37,0,37,Mobile Payment,Mall,12:14:11 PM,09-06-2024,Old,3,Sunday
+657,Cortado,27,1,27,15,23,Card,University,03:10:31 PM,09-06-2024,New,4,Sunday
+658,Cappuccino,37,2,75,20,60,Card,University,04:17:28 PM,09-06-2024,Old,4,Sunday
+659,Americano with Milk,32,1,32,20,26,Cash,Downtown,07:21:19 PM,09-06-2024,Old,5,Sunday
+660,Americano,27,1,27,15,23,Cash,University,09:05:09 PM,09-06-2024,Old,5,Sunday
+661,Cappuccino,37,1,37,15,32,Card,University,12:47:50 PM,10-06-2024,Old,2,Monday
+662,Latte,37,1,37,0,37,Card,Mall,12:56:48 PM,10-06-2024,Old,3,Monday
+663,Hot Chocolate,37,2,75,15,64,Card,Mall,07:04:28 PM,10-06-2024,New,3,Monday
+664,Hot Chocolate,37,1,37,20,30,Cash,Mall,07:05:23 PM,10-06-2024,Old,4,Monday
+665,Latte,37,3,113,0,113,Mobile Payment,Downtown,07:37:24 PM,10-06-2024,New,1,Monday
+666,Latte,37,1,37,5,35,Card,Airport,07:38:20 PM,10-06-2024,Old,4,Monday
+667,Americano with Milk,32,1,32,0,32,Cash,University,10:38:04 AM,11-06-2024,New,1,Tuesday
+668,Latte,37,2,75,5,71,Cash,Mall,06:48:25 PM,11-06-2024,New,1,Tuesday
+669,Latte,37,2,75,0,75,Mobile Payment,Airport,06:49:36 PM,11-06-2024,New,5,Tuesday
+670,Hot Chocolate,37,3,113,0,113,Card,Airport,09:17:03 PM,11-06-2024,New,2,Tuesday
+671,Americano with Milk,32,3,98,5,93,Cash,Mall,09:27:42 PM,11-06-2024,New,1,Tuesday
+672,Americano with Milk,32,3,98,15,83,Cash,Downtown,09:28:50 PM,11-06-2024,Old,2,Tuesday
+673,Hot Chocolate,37,1,37,5,35,Mobile Payment,Mall,10:18:19 AM,12-06-2024,New,4,Wednesday
+674,Cappuccino,37,2,75,15,64,Cash,Airport,11:51:44 AM,12-06-2024,New,1,Wednesday
+675,Latte,37,1,37,0,37,Mobile Payment,Airport,05:41:17 PM,12-06-2024,Old,4,Wednesday
+676,Latte,37,3,113,20,90,Mobile Payment,University,05:47:28 PM,12-06-2024,New,2,Wednesday
+677,Hot Chocolate,37,2,75,15,64,Card,University,08:16:34 PM,12-06-2024,Old,5,Wednesday
+678,Americano with Milk,32,2,65,5,62,Cash,Downtown,08:25:34 PM,12-06-2024,New,2,Wednesday
+679,Americano,27,2,55,15,47,Cash,Mall,08:54:24 AM,13-06-2024,New,2,Thursday
+680,Latte,37,3,113,10,101,Mobile Payment,University,08:57:26 AM,13-06-2024,Old,4,Thursday
+681,Americano with Milk,32,3,98,10,88,Cash,University,09:50:25 AM,13-06-2024,New,4,Thursday
+682,Cortado,27,2,55,20,44,Card,Downtown,09:57:12 AM,13-06-2024,New,2,Thursday
+683,Americano with Milk,32,2,65,5,62,Cash,Airport,05:04:59 PM,13-06-2024,Old,4,Thursday
+684,Hot Chocolate,37,3,113,5,107,Card,Mall,05:27:47 PM,13-06-2024,Old,4,Thursday
+685,Latte,37,2,75,5,71,Cash,Downtown,07:22:19 PM,13-06-2024,Old,5,Thursday
+686,Americano with Milk,32,1,32,0,32,Mobile Payment,Mall,08:20:52 PM,13-06-2024,New,5,Thursday
+687,Espresso,23,1,23,5,21,Card,Airport,08:43:46 PM,13-06-2024,New,5,Thursday
+688,Espresso,23,3,69,20,55,Card,Airport,08:45:01 PM,13-06-2024,New,3,Thursday
+689,Americano with Milk,32,2,65,0,65,Mobile Payment,Downtown,08:48:18 PM,13-06-2024,Old,3,Thursday
+690,Americano with Milk,32,1,32,20,26,Card,Mall,09:02:28 PM,13-06-2024,New,5,Thursday
+691,Cortado,27,3,83,0,83,Card,University,07:46:13 AM,14-06-2024,New,5,Friday
+692,Americano,27,2,55,10,50,Mobile Payment,Downtown,10:30:32 AM,14-06-2024,Old,2,Friday
+693,Latte,37,2,75,10,67,Mobile Payment,Downtown,12:14:42 PM,14-06-2024,New,5,Friday
+694,Americano with Milk,32,2,65,20,52,Card,University,06:29:53 PM,14-06-2024,Old,4,Friday
+695,Cappuccino,37,2,75,0,75,Cash,Downtown,11:26:02 AM,15-06-2024,Old,2,Saturday
+696,Latte,37,3,113,5,107,Mobile Payment,Airport,12:21:28 PM,15-06-2024,New,4,Saturday
+697,Americano with Milk,32,3,98,5,93,Cash,Airport,12:22:47 PM,15-06-2024,New,1,Saturday
+698,Espresso,23,2,46,0,46,Mobile Payment,Airport,12:23:52 PM,15-06-2024,Old,2,Saturday
+699,Cocoa,37,1,37,5,35,Mobile Payment,Airport,12:24:35 PM,15-06-2024,Old,4,Saturday
+700,Americano with Milk,32,1,32,20,26,Mobile Payment,Mall,12:25:24 PM,15-06-2024,Old,3,Saturday
+701,Americano with Milk,32,2,65,5,62,Card,Mall,04:03:30 PM,15-06-2024,New,2,Saturday
+702,Americano,27,2,55,5,53,Card,Airport,06:14:05 PM,15-06-2024,New,2,Saturday
+703,Americano with Milk,32,1,32,5,31,Mobile Payment,Mall,10:43:51 AM,16-06-2024,New,3,Sunday
+704,Latte,37,1,37,10,33,Mobile Payment,Downtown,10:58:41 AM,16-06-2024,New,4,Sunday
+705,Hot Chocolate,37,1,37,0,37,Cash,Mall,11:00:38 AM,16-06-2024,New,2,Sunday
+706,Hot Chocolate,37,3,113,0,113,Cash,University,11:01:41 AM,16-06-2024,New,5,Sunday
+707,Americano with Milk,32,1,32,5,31,Cash,Mall,12:49:28 PM,16-06-2024,New,2,Sunday
+708,Espresso,23,2,46,15,39,Cash,Downtown,02:00:39 PM,16-06-2024,Old,4,Sunday
+709,Americano with Milk,32,3,98,15,83,Card,Airport,03:02:36 PM,16-06-2024,Old,3,Sunday
+710,Americano with Milk,32,1,32,5,31,Cash,Downtown,03:05:10 PM,16-06-2024,Old,4,Sunday
+711,Hot Chocolate,37,1,37,0,37,Cash,Airport,03:44:00 PM,16-06-2024,New,3,Sunday
+712,Hot Chocolate,37,1,37,0,37,Mobile Payment,Downtown,04:47:37 PM,16-06-2024,Old,4,Sunday
+713,Americano with Milk,32,1,32,15,27,Mobile Payment,Airport,05:45:17 PM,16-06-2024,New,3,Sunday
+714,Americano with Milk,32,1,32,10,29,Card,Airport,05:46:17 PM,16-06-2024,Old,5,Sunday
+715,Americano,27,2,55,20,44,Cash,Downtown,08:57:24 AM,17-06-2024,Old,2,Monday
+716,Cortado,27,1,27,15,23,Cash,Downtown,10:12:05 AM,17-06-2024,Old,2,Monday
+717,Cortado,27,1,27,10,25,Mobile Payment,Airport,10:13:38 AM,17-06-2024,Old,1,Monday
+718,Cappuccino,37,2,75,15,64,Cash,University,10:55:52 AM,17-06-2024,New,1,Monday
+719,Cappuccino,37,3,113,20,90,Card,Airport,02:51:35 PM,17-06-2024,Old,5,Monday
+720,Cappuccino,37,1,37,15,32,Cash,Mall,04:50:13 PM,17-06-2024,Old,3,Monday
+721,Cappuccino,37,3,113,20,90,Cash,Downtown,04:51:11 PM,17-06-2024,Old,2,Monday
+722,Americano,27,3,83,20,67,Mobile Payment,Airport,04:52:36 PM,17-06-2024,New,1,Monday
+723,Americano,27,1,27,0,27,Mobile Payment,Airport,06:51:20 PM,17-06-2024,New,4,Monday
+724,Americano with Milk,32,2,65,20,52,Cash,University,09:16:11 PM,17-06-2024,New,2,Monday
+725,Americano,27,3,83,0,83,Cash,Airport,02:04:06 PM,18-06-2024,New,1,Tuesday
+726,Cappuccino,37,2,75,20,60,Card,Downtown,02:05:12 PM,18-06-2024,New,2,Tuesday
+727,Cappuccino,37,2,75,10,67,Card,Airport,07:20:41 PM,18-06-2024,Old,5,Tuesday
+728,Cappuccino,37,1,37,0,37,Card,Mall,07:21:39 PM,18-06-2024,New,4,Tuesday
+729,Cortado,27,1,27,20,22,Mobile Payment,Airport,08:35:49 PM,18-06-2024,Old,4,Tuesday
+730,Americano with Milk,32,2,65,10,59,Mobile Payment,Mall,09:20:50 PM,18-06-2024,Old,1,Tuesday
+731,Americano with Milk,32,3,98,0,98,Cash,Downtown,09:22:19 PM,18-06-2024,New,4,Tuesday
+732,Latte,37,1,37,0,37,Cash,Downtown,07:47:20 AM,19-06-2024,New,3,Wednesday
+733,Cortado,27,3,83,15,71,Mobile Payment,Mall,08:17:55 AM,19-06-2024,New,2,Wednesday
+734,Americano,27,1,27,20,22,Mobile Payment,Mall,10:54:00 AM,19-06-2024,New,2,Wednesday
+735,Latte,37,1,37,15,32,Cash,Mall,11:11:28 AM,19-06-2024,Old,2,Wednesday
+736,Cocoa,37,3,113,15,96,Card,Downtown,11:12:31 AM,19-06-2024,Old,4,Wednesday
+737,Americano with Milk,32,1,32,20,26,Cash,Mall,02:21:36 PM,19-06-2024,New,3,Wednesday
+738,Cappuccino,37,2,75,0,75,Mobile Payment,Downtown,06:28:43 PM,19-06-2024,New,5,Wednesday
+739,Latte,37,2,75,20,60,Card,Airport,06:29:59 PM,19-06-2024,Old,2,Wednesday
+740,Americano with Milk,32,3,98,0,98,Card,University,07:31:31 PM,19-06-2024,Old,1,Wednesday
+741,Cappuccino,37,1,37,5,35,Mobile Payment,Airport,09:28:59 PM,19-06-2024,Old,4,Wednesday
+742,Americano with Milk,32,2,65,0,65,Cash,Airport,09:30:03 PM,19-06-2024,New,1,Wednesday
+743,Latte,37,3,113,20,90,Card,Airport,10:50:06 AM,20-06-2024,Old,5,Thursday
+744,Latte,37,2,75,0,75,Mobile Payment,University,06:59:02 PM,20-06-2024,New,4,Thursday
+745,Latte,37,3,113,5,107,Card,Airport,07:00:00 PM,20-06-2024,Old,4,Thursday
+746,Latte,37,3,113,15,96,Cash,Downtown,09:39:10 PM,20-06-2024,Old,1,Thursday
+747,Latte,37,3,113,15,96,Card,Downtown,09:57:41 PM,20-06-2024,New,5,Thursday
+748,Americano with Milk,32,2,65,5,62,Card,University,09:59:18 PM,20-06-2024,New,1,Thursday
+749,Latte,37,3,113,20,90,Cash,Downtown,09:59:56 AM,21-06-2024,New,2,Friday
+750,Americano,27,2,55,10,50,Mobile Payment,Downtown,10:01:40 AM,21-06-2024,Old,2,Friday
+751,Americano with Milk,32,3,98,20,78,Cash,University,01:19:19 PM,21-06-2024,Old,2,Friday
+752,Americano with Milk,32,1,32,15,27,Card,Mall,01:20:32 PM,21-06-2024,New,2,Friday
+753,Espresso,23,1,23,15,19,Cash,Mall,06:12:16 PM,21-06-2024,New,5,Friday
+754,Latte,37,2,75,20,60,Cash,Downtown,07:30:27 PM,21-06-2024,New,4,Friday
+755,Cappuccino,37,2,75,0,75,Cash,Downtown,07:47:06 PM,21-06-2024,New,2,Friday
+756,Cappuccino,37,1,37,20,30,Card,Mall,07:48:07 PM,21-06-2024,New,5,Friday
+757,Cappuccino,37,1,37,10,33,Mobile Payment,Airport,07:49:55 PM,21-06-2024,Old,4,Friday
+758,Cappuccino,37,1,37,0,37,Mobile Payment,Airport,07:51:00 PM,21-06-2024,New,1,Friday
+759,Americano,27,1,27,5,26,Cash,Downtown,07:52:19 PM,21-06-2024,Old,3,Friday
+760,Americano with Milk,32,2,65,5,62,Card,Mall,07:55:37 PM,21-06-2024,Old,5,Friday
+761,Cortado,27,3,83,5,79,Card,Mall,08:39:50 AM,22-06-2024,New,1,Saturday
+762,Americano with Milk,32,2,65,5,62,Mobile Payment,Downtown,09:37:49 AM,22-06-2024,Old,1,Saturday
+763,Americano with Milk,32,2,65,20,52,Cash,Mall,12:53:16 PM,22-06-2024,New,3,Saturday
+764,Latte,37,2,75,5,71,Cash,Mall,03:37:20 PM,22-06-2024,Old,4,Saturday
+765,Cappuccino,37,2,75,20,60,Card,Mall,10:10:23 PM,22-06-2024,New,2,Saturday
+766,Americano with Milk,32,2,65,5,62,Mobile Payment,Mall,06:12:01 PM,23-06-2024,Old,3,Sunday
+767,Americano with Milk,32,1,32,5,31,Cash,Mall,06:13:51 PM,23-06-2024,New,4,Sunday
+768,Cappuccino,37,3,113,15,96,Card,Downtown,09:06:47 PM,23-06-2024,New,3,Sunday
+769,Latte,37,2,75,10,67,Cash,University,09:29:08 PM,23-06-2024,Old,3,Sunday
+770,Cappuccino,37,1,37,5,35,Cash,Downtown,09:30:36 PM,23-06-2024,New,2,Sunday
+771,Americano with Milk,32,3,98,15,83,Mobile Payment,Downtown,11:44:40 AM,24-06-2024,Old,2,Monday
+772,Cappuccino,37,3,113,0,113,Mobile Payment,University,11:49:36 AM,24-06-2024,Old,1,Monday
+773,Cappuccino,37,3,113,15,96,Cash,Downtown,11:50:44 AM,24-06-2024,Old,1,Monday
+774,Latte,37,1,37,15,32,Card,University,03:02:29 PM,24-06-2024,New,5,Monday
+775,Cappuccino,37,3,113,0,113,Mobile Payment,Downtown,04:46:01 PM,24-06-2024,Old,3,Monday
+776,Cappuccino,37,3,113,5,107,Cash,University,04:47:00 PM,24-06-2024,Old,1,Monday
+777,Latte,37,1,37,10,33,Card,Airport,08:19:24 AM,25-06-2024,New,4,Tuesday
+778,Americano with Milk,32,3,98,5,93,Cash,Downtown,10:28:26 AM,25-06-2024,Old,2,Tuesday
+779,Americano with Milk,32,1,32,5,31,Cash,Airport,10:29:42 AM,25-06-2024,Old,5,Tuesday
+780,Cappuccino,37,3,113,5,107,Mobile Payment,Airport,11:34:52 AM,25-06-2024,Old,1,Tuesday
+781,Latte,37,3,113,0,113,Cash,Downtown,09:33:02 AM,26-06-2024,New,4,Wednesday
+782,Espresso,23,2,46,20,36,Card,Mall,04:32:29 PM,26-06-2024,New,2,Wednesday
+783,Americano,27,2,55,20,44,Card,Mall,04:34:02 PM,26-06-2024,Old,1,Wednesday
+784,Latte,37,2,75,10,67,Mobile Payment,University,09:21:53 PM,26-06-2024,New,4,Wednesday
+785,Cappuccino,37,2,75,20,60,Cash,Airport,09:27:01 PM,26-06-2024,Old,1,Wednesday
+786,Americano with Milk,32,3,98,10,88,Cash,Airport,09:28:15 PM,26-06-2024,Old,4,Wednesday
+787,Americano with Milk,32,1,32,15,27,Cash,University,09:15:43 AM,27-06-2024,New,2,Thursday
+788,Cortado,27,3,83,15,71,Cash,Airport,04:11:48 PM,27-06-2024,New,2,Thursday
+789,Americano with Milk,32,1,32,15,27,Cash,Airport,09:44:03 PM,27-06-2024,New,4,Thursday
+790,Cappuccino,37,1,37,20,30,Card,Airport,09:50:32 PM,27-06-2024,Old,5,Thursday
+791,Cortado,27,2,55,10,50,Card,University,08:08:35 AM,28-06-2024,New,4,Friday
+792,Espresso,23,2,46,20,36,Card,Downtown,05:51:54 PM,28-06-2024,New,5,Friday
+793,Americano with Milk,32,2,65,15,55,Card,Downtown,09:50:55 PM,28-06-2024,Old,2,Friday
+794,Latte,37,1,37,0,37,Mobile Payment,University,09:52:02 PM,28-06-2024,New,2,Friday
+795,Cappuccino,37,3,113,0,113,Card,University,10:28:20 PM,28-06-2024,New,3,Friday
+796,Americano with Milk,32,1,32,15,27,Cash,Airport,09:47:10 AM,29-06-2024,New,2,Saturday
+797,Americano with Milk,32,3,98,0,98,Mobile Payment,Downtown,11:40:20 AM,29-06-2024,New,1,Saturday
+798,Americano with Milk,32,3,98,15,83,Mobile Payment,Downtown,11:41:27 AM,29-06-2024,New,1,Saturday
+799,Cappuccino,37,2,75,20,60,Card,Mall,12:30:24 PM,29-06-2024,New,2,Saturday
+800,Cappuccino,37,1,37,5,35,Card,Downtown,12:31:43 PM,29-06-2024,New,3,Saturday
+801,Cappuccino,37,1,37,20,30,Cash,Airport,05:23:44 PM,29-06-2024,Old,5,Saturday
+802,Hot Chocolate,37,2,75,10,67,Cash,Mall,05:24:52 PM,29-06-2024,New,1,Saturday
+803,Latte,37,1,37,0,37,Card,Airport,09:27:22 PM,29-06-2024,Old,3,Saturday
+804,Latte,37,3,113,20,90,Mobile Payment,Mall,10:28:10 AM,30-06-2024,New,2,Sunday
+805,Espresso,23,1,23,5,21,Card,Airport,01:05:51 PM,30-06-2024,New,3,Sunday
+806,Hot Chocolate,37,1,37,15,32,Cash,Mall,04:54:42 PM,30-06-2024,Old,5,Sunday
+807,Americano with Milk,32,3,98,5,93,Cash,Airport,09:04:10 PM,30-06-2024,New,4,Sunday
+808,Espresso,23,1,23,0,23,Cash,Airport,06:07:27 PM,01-07-2024,New,4,Monday
+809,Cappuccino,37,3,113,5,107,Cash,University,06:56:52 PM,01-07-2024,New,5,Monday
+810,Cappuccino,37,1,37,15,32,Card,Mall,06:57:54 PM,01-07-2024,New,4,Monday
+811,Americano with Milk,32,2,65,0,65,Cash,Downtown,10:42:54 AM,02-07-2024,New,3,Tuesday
+812,Americano,27,1,27,0,27,Card,University,10:45:01 AM,02-07-2024,New,4,Tuesday
+813,Latte,37,3,113,0,113,Mobile Payment,Airport,12:48:05 PM,02-07-2024,Old,1,Tuesday
+814,Americano,27,3,83,5,79,Mobile Payment,Mall,02:03:13 PM,02-07-2024,Old,5,Tuesday
+815,Americano with Milk,32,3,98,0,98,Card,University,04:31:24 PM,02-07-2024,Old,2,Tuesday
+816,Americano with Milk,32,2,65,10,59,Cash,Mall,10:02:24 PM,02-07-2024,New,5,Tuesday
+817,Americano with Milk,32,2,65,5,62,Card,Downtown,01:51:15 PM,03-07-2024,New,5,Wednesday
+818,Cappuccino,37,1,37,0,37,Mobile Payment,Airport,04:01:17 PM,03-07-2024,Old,2,Wednesday
+819,Cappuccino,37,2,75,15,64,Cash,Airport,04:50:25 PM,03-07-2024,Old,3,Wednesday
+820,Americano with Milk,32,1,32,10,29,Mobile Payment,University,04:53:16 PM,03-07-2024,Old,5,Wednesday
+821,Americano with Milk,32,3,98,0,98,Mobile Payment,University,04:54:23 PM,03-07-2024,New,5,Wednesday
+822,Latte,37,2,75,0,75,Card,Airport,04:55:31 PM,03-07-2024,New,3,Wednesday
+823,Espresso,23,3,69,0,69,Cash,Airport,04:59:26 PM,03-07-2024,Old,2,Wednesday
+824,Cappuccino,37,3,113,15,96,Cash,Mall,05:59:02 PM,03-07-2024,New,4,Wednesday
+825,Latte,37,3,113,20,90,Mobile Payment,Airport,07:06:09 PM,03-07-2024,New,3,Wednesday
+826,Americano with Milk,32,3,98,20,78,Card,Downtown,10:26:24 AM,04-07-2024,New,5,Thursday
+827,Americano,27,1,27,5,26,Cash,University,10:27:30 AM,04-07-2024,New,5,Thursday
+828,Cocoa,37,3,113,15,96,Cash,Downtown,12:20:29 PM,05-07-2024,Old,1,Friday
+829,Americano with Milk,32,2,65,10,59,Cash,Airport,01:43:43 PM,05-07-2024,Old,3,Friday
+830,Americano with Milk,32,3,98,5,93,Card,Downtown,01:44:44 PM,05-07-2024,Old,3,Friday
+831,Espresso,23,2,46,0,46,Card,Downtown,06:55:56 PM,05-07-2024,New,2,Friday
+832,Americano,27,1,27,0,27,Card,Airport,07:55:08 PM,05-07-2024,New,4,Friday
+833,Espresso,23,3,69,20,55,Card,Mall,10:11:56 PM,05-07-2024,Old,3,Friday
+834,Americano,27,2,55,20,44,Card,Downtown,10:18:03 PM,05-07-2024,Old,1,Friday
+835,Americano,27,1,27,0,27,Cash,Airport,10:18:57 PM,05-07-2024,Old,5,Friday
+836,Cappuccino,37,1,37,5,35,Card,Downtown,10:20:01 PM,05-07-2024,New,2,Friday
+837,Americano with Milk,32,1,32,15,27,Mobile Payment,Downtown,10:21:09 PM,05-07-2024,New,5,Friday
+838,Latte,37,2,75,20,60,Cash,Airport,10:28:07 AM,06-07-2024,New,1,Saturday
+839,Latte,32,1,32,20,26,Mobile Payment,Airport,05:15:46 PM,06-07-2024,Old,2,Saturday
+840,Latte,32,1,32,0,32,Card,Mall,05:17:01 PM,06-07-2024,Old,5,Saturday
+841,Latte,32,2,65,15,55,Mobile Payment,University,07:09:46 PM,06-07-2024,New,2,Saturday
+842,Americano with Milk,27,3,83,15,71,Mobile Payment,University,07:10:40 PM,06-07-2024,New,3,Saturday
+843,Cappuccino,32,3,98,20,78,Mobile Payment,Airport,09:04:20 AM,07-07-2024,New,2,Sunday
+844,Americano with Milk,27,1,27,10,25,Mobile Payment,University,09:14:29 AM,07-07-2024,New,4,Sunday
+845,Americano with Milk,27,1,27,20,22,Mobile Payment,Mall,09:15:37 AM,07-07-2024,Old,1,Sunday
+846,Cappuccino,32,1,32,15,27,Mobile Payment,Mall,09:28:49 AM,07-07-2024,Old,3,Sunday
+847,Cappuccino,32,2,65,20,52,Mobile Payment,Airport,09:29:56 AM,07-07-2024,New,1,Sunday
+848,Hot Chocolate,32,1,32,0,32,Card,Downtown,02:56:30 PM,07-07-2024,Old,3,Sunday
+849,Cocoa,32,2,65,10,59,Cash,Airport,02:57:47 PM,07-07-2024,New,2,Sunday
+850,Latte,32,3,98,10,88,Mobile Payment,Airport,05:07:50 PM,07-07-2024,Old,3,Sunday
+851,Cappuccino,32,2,65,5,62,Cash,University,07:33:27 PM,07-07-2024,New,2,Sunday
+852,Hot Chocolate,32,2,65,20,52,Cash,Airport,08:01:32 PM,07-07-2024,New,4,Sunday
+853,Americano with Milk,27,1,27,15,23,Mobile Payment,Airport,10:33:36 PM,07-07-2024,New,1,Sunday
+854,Latte,32,3,98,15,83,Cash,Downtown,07:33:08 AM,08-07-2024,Old,5,Monday
+855,Americano,23,1,23,0,23,Cash,Mall,12:02:50 PM,08-07-2024,New,3,Monday
+856,Americano,23,2,46,5,43,Cash,University,02:40:24 PM,08-07-2024,Old,2,Monday
+857,Americano with Milk,27,3,83,15,71,Card,University,07:30:35 PM,08-07-2024,New,5,Monday
+858,Latte,32,2,65,5,62,Mobile Payment,University,10:14:46 PM,08-07-2024,New,2,Monday
+859,Americano with Milk,27,1,27,20,22,Mobile Payment,Downtown,10:26:52 AM,09-07-2024,New,1,Tuesday
+860,Americano with Milk,27,2,55,10,50,Card,Airport,10:40:29 AM,09-07-2024,Old,4,Tuesday
+861,Americano with Milk,27,2,55,15,47,Card,Downtown,11:21:36 AM,09-07-2024,Old,1,Tuesday
+862,Cappuccino,32,2,65,10,59,Mobile Payment,Mall,11:22:50 AM,09-07-2024,New,2,Tuesday
+863,Americano with Milk,27,1,27,5,26,Cash,Mall,04:43:00 PM,09-07-2024,Old,2,Tuesday
+864,Americano,23,3,69,10,62,Mobile Payment,Airport,11:10:42 AM,10-07-2024,New,2,Wednesday
+865,Americano with Milk,27,3,83,10,75,Card,University,12:28:54 PM,10-07-2024,Old,3,Wednesday
+866,Latte,32,2,65,10,59,Mobile Payment,Airport,10:13:10 PM,10-07-2024,New,2,Wednesday
+867,Hot Chocolate,32,2,65,0,65,Card,Mall,11:27:28 AM,11-07-2024,New,3,Thursday
+868,Americano with Milk,27,1,27,0,27,Mobile Payment,University,04:48:19 PM,11-07-2024,New,5,Thursday
+869,Latte,32,2,65,15,55,Mobile Payment,University,10:22:14 PM,11-07-2024,New,3,Thursday
+870,Americano,23,2,46,20,36,Mobile Payment,Airport,10:30:59 PM,11-07-2024,New,3,Thursday
+871,Cortado,23,1,23,10,20,Cash,University,08:03:17 AM,12-07-2024,New,3,Friday
+872,Hot Chocolate,32,2,65,5,62,Card,Mall,11:48:33 AM,12-07-2024,Old,5,Friday
+873,Hot Chocolate,32,3,98,20,78,Card,Airport,10:33:26 PM,12-07-2024,Old,5,Friday
+874,Hot Chocolate,32,1,32,15,27,Card,Mall,10:34:14 PM,12-07-2024,Old,4,Friday
+875,Hot Chocolate,32,1,32,5,31,Card,University,10:35:30 PM,12-07-2024,New,4,Friday
+876,Latte,32,3,98,10,88,Cash,Downtown,10:38:10 AM,13-07-2024,Old,4,Saturday
+877,Latte,32,2,65,5,62,Card,Downtown,11:41:38 AM,13-07-2024,Old,1,Saturday
+878,Americano,23,1,23,15,19,Cash,Downtown,10:54:24 AM,14-07-2024,New,3,Sunday
+879,Americano with Milk,27,2,55,5,53,Cash,Downtown,10:55:31 AM,14-07-2024,Old,2,Sunday
+880,Cappuccino,32,1,32,0,32,Mobile Payment,Airport,10:56:30 AM,14-07-2024,New,5,Sunday
+881,Latte,32,3,98,20,78,Card,Mall,10:57:54 AM,14-07-2024,New,4,Sunday
+882,Americano,23,2,46,15,39,Card,Downtown,11:02:12 AM,14-07-2024,New,5,Sunday
+883,Latte,32,2,65,5,62,Cash,University,10:31:30 PM,14-07-2024,Old,5,Sunday
+884,Cappuccino,32,3,98,10,88,Card,Downtown,07:33:06 AM,15-07-2024,New,2,Monday
+885,Americano with Milk,27,1,27,20,22,Mobile Payment,Mall,12:23:37 PM,16-07-2024,Old,2,Tuesday
+886,Hot Chocolate,32,3,98,10,88,Card,Downtown,07:29:25 PM,16-07-2024,Old,3,Tuesday
+887,Americano with Milk,27,1,27,5,26,Cash,Airport,01:05:00 PM,17-07-2024,Old,3,Wednesday
+888,Americano with Milk,27,2,55,15,47,Cash,Downtown,11:10:13 AM,18-07-2024,Old,1,Thursday
+889,Espresso,18,3,54,0,54,Card,Airport,11:11:23 AM,18-07-2024,Old,5,Thursday
+890,Americano,23,3,69,20,55,Card,Downtown,11:33:00 AM,18-07-2024,Old,3,Thursday
+891,Americano,23,1,23,20,18,Card,Mall,11:34:48 AM,18-07-2024,Old,1,Thursday
+892,Cortado,23,2,46,0,46,Mobile Payment,University,11:35:52 AM,18-07-2024,New,2,Thursday
+893,Latte,32,1,32,20,26,Card,Downtown,01:23:34 PM,18-07-2024,New,2,Thursday
+894,Cappuccino,32,1,32,10,29,Mobile Payment,Mall,06:18:23 PM,18-07-2024,Old,3,Thursday
+895,Latte,32,3,98,0,98,Cash,Mall,07:30:51 PM,18-07-2024,New,5,Thursday
+896,Hot Chocolate,32,3,98,5,93,Card,Airport,09:19:42 PM,18-07-2024,Old,3,Thursday
+897,Latte,32,1,32,5,31,Card,Mall,09:22:00 PM,18-07-2024,Old,1,Thursday
+898,Latte,32,2,65,0,65,Card,Mall,09:46:19 PM,18-07-2024,Old,2,Thursday
+899,Americano,23,1,23,5,21,Card,Downtown,11:03:02 AM,19-07-2024,Old,1,Friday
+900,Americano with Milk,27,1,27,0,27,Cash,Mall,11:16:21 AM,19-07-2024,Old,1,Friday
+901,Latte,32,3,98,10,88,Mobile Payment,Mall,12:58:38 PM,19-07-2024,Old,3,Friday
+902,Americano with Milk,27,1,27,20,22,Card,Airport,12:59:55 PM,19-07-2024,New,1,Friday
+903,Latte,32,3,98,10,88,Cash,Downtown,02:09:21 PM,19-07-2024,Old,2,Friday
+904,Cocoa,32,1,32,10,29,Mobile Payment,Downtown,02:11:22 PM,19-07-2024,Old,2,Friday
+905,Latte,32,2,65,5,62,Card,Mall,04:36:19 PM,19-07-2024,New,3,Friday
+906,Latte,32,2,65,0,65,Cash,Downtown,04:37:36 PM,19-07-2024,New,5,Friday
+907,Americano,23,3,69,20,55,Mobile Payment,Airport,08:05:44 AM,20-07-2024,New,3,Saturday
+908,Latte,32,3,98,20,78,Mobile Payment,Airport,08:06:49 AM,20-07-2024,New,1,Saturday
+909,Americano,23,1,23,5,21,Cash,Mall,08:07:51 AM,20-07-2024,New,1,Saturday
+910,Latte,32,3,98,20,78,Card,Downtown,09:00:54 AM,20-07-2024,New,4,Saturday
+911,Latte,32,1,32,15,27,Card,University,09:02:28 AM,20-07-2024,Old,1,Saturday
+912,Americano,23,1,23,0,23,Card,Mall,10:39:21 AM,20-07-2024,New,3,Saturday
+913,Latte,32,1,32,5,31,Mobile Payment,Downtown,03:15:09 PM,20-07-2024,Old,3,Saturday
+914,Cocoa,32,3,98,15,83,Card,University,10:30:56 AM,21-07-2024,Old,5,Sunday
+915,Cappuccino,32,3,98,10,88,Card,Downtown,11:39:29 AM,21-07-2024,Old,4,Sunday
+916,Cortado,23,1,23,15,19,Cash,Mall,01:34:31 PM,21-07-2024,New,2,Sunday
+917,Latte,32,2,65,0,65,Cash,University,01:42:31 PM,21-07-2024,New,3,Sunday
+918,Americano,23,2,46,20,36,Cash,Downtown,08:13:23 AM,22-07-2024,New,2,Monday
+919,Americano,23,1,23,15,19,Card,University,08:40:50 AM,22-07-2024,New,4,Monday
+920,Americano with Milk,27,1,27,0,27,Mobile Payment,Mall,10:15:37 AM,22-07-2024,Old,1,Monday
+921,Latte,32,1,32,0,32,Mobile Payment,University,04:44:38 PM,22-07-2024,Old,2,Monday
+922,Latte,32,1,32,10,29,Card,Mall,08:12:56 AM,23-07-2024,New,2,Tuesday
+923,Americano,23,1,23,20,18,Card,Downtown,08:40:19 AM,23-07-2024,Old,5,Tuesday
+924,Americano with Milk,27,3,83,10,75,Card,University,08:44:54 AM,23-07-2024,New,3,Tuesday
+925,Cocoa,32,2,65,0,65,Mobile Payment,University,08:49:25 AM,23-07-2024,New,4,Tuesday
+926,Latte,32,2,65,0,65,Mobile Payment,Downtown,08:51:10 AM,23-07-2024,Old,5,Tuesday
+927,Americano,23,1,23,0,23,Mobile Payment,Mall,09:01:46 AM,23-07-2024,New,3,Tuesday
+928,Americano with Milk,27,3,83,0,83,Mobile Payment,Airport,10:03:36 AM,23-07-2024,New,5,Tuesday
+929,Americano with Milk,27,1,27,10,25,Mobile Payment,Downtown,03:20:05 PM,23-07-2024,New,2,Tuesday
+930,Latte,32,2,65,5,62,Cash,Downtown,03:21:01 PM,23-07-2024,New,2,Tuesday
+931,Latte,32,1,32,0,32,Card,Downtown,09:01:41 PM,23-07-2024,Old,5,Tuesday
+932,Americano,23,2,46,0,46,Cash,University,09:23:14 PM,23-07-2024,New,3,Tuesday
+933,Americano,23,2,46,5,43,Mobile Payment,University,09:24:23 PM,23-07-2024,New,1,Tuesday
+934,Americano with Milk,27,2,55,5,53,Card,Airport,09:16:10 AM,24-07-2024,Old,2,Wednesday
+935,Americano with Milk,27,2,55,20,44,Cash,Downtown,09:38:55 AM,24-07-2024,New,3,Wednesday
+936,Espresso,18,3,54,0,54,Card,Downtown,09:54:37 AM,24-07-2024,New,2,Wednesday
+937,Cappuccino,32,2,65,10,59,Card,Mall,11:43:53 AM,24-07-2024,New,4,Wednesday
+938,Latte,32,2,65,20,52,Cash,Airport,01:55:14 PM,24-07-2024,Old,1,Wednesday
+939,Espresso,18,2,36,20,28,Cash,University,02:45:50 PM,24-07-2024,Old,4,Wednesday
+940,Latte,32,3,98,5,93,Cash,University,03:18:31 PM,24-07-2024,New,1,Wednesday
+941,Cappuccino,32,1,32,15,27,Cash,University,07:15:06 PM,24-07-2024,Old,3,Wednesday
+942,Cappuccino,32,3,98,15,83,Cash,Downtown,07:17:00 PM,24-07-2024,Old,1,Wednesday
+943,Americano with Milk,27,2,55,5,53,Card,Airport,09:17:37 PM,24-07-2024,Old,1,Wednesday
+944,Americano,23,2,46,10,41,Mobile Payment,Airport,09:18:41 PM,24-07-2024,Old,4,Wednesday
+945,Americano,23,3,69,0,69,Cash,University,09:25:17 PM,24-07-2024,Old,1,Wednesday
+946,Americano,23,2,46,10,41,Cash,University,07:54:48 AM,25-07-2024,Old,4,Thursday
+947,Latte,32,2,65,10,59,Mobile Payment,Mall,08:49:18 AM,25-07-2024,New,4,Thursday
+948,Americano with Milk,27,3,83,10,75,Card,University,10:29:45 AM,25-07-2024,Old,5,Thursday
+949,Americano,23,1,23,15,19,Card,Downtown,11:26:05 AM,25-07-2024,New,3,Thursday
+950,Cappuccino,32,3,98,10,88,Cash,University,03:25:07 PM,25-07-2024,New,1,Thursday
+951,Cappuccino,32,1,32,20,26,Mobile Payment,Airport,07:21:01 PM,25-07-2024,New,4,Thursday
+952,Cortado,23,2,46,10,41,Card,Airport,09:06:01 PM,25-07-2024,Old,3,Thursday
+953,Espresso,18,3,54,10,48,Mobile Payment,Mall,09:06:50 PM,25-07-2024,New,4,Thursday
+954,Cortado,23,1,23,0,23,Cash,University,10:38:51 PM,25-07-2024,New,1,Thursday
+955,Cocoa,32,3,98,0,98,Mobile Payment,Downtown,10:39:47 PM,25-07-2024,New,1,Thursday
+956,Latte,32,3,98,5,93,Mobile Payment,Airport,08:33:01 AM,26-07-2024,Old,5,Friday
+957,Americano with Milk,27,3,83,15,71,Cash,Downtown,09:19:37 AM,26-07-2024,New,5,Friday
+958,Espresso,18,1,18,15,15,Cash,University,09:20:34 AM,26-07-2024,New,4,Friday
+959,Cortado,23,2,46,20,36,Mobile Payment,University,09:33:12 AM,26-07-2024,New,5,Friday
+960,Cortado,23,2,46,5,43,Mobile Payment,University,09:34:17 AM,26-07-2024,Old,4,Friday
+961,Latte,32,2,65,20,52,Mobile Payment,University,09:59:08 AM,26-07-2024,New,4,Friday
+962,Latte,32,2,65,15,55,Cash,Airport,10:00:03 AM,26-07-2024,Old,3,Friday
+963,Americano with Milk,27,1,27,10,25,Card,Mall,11:47:14 AM,26-07-2024,New,3,Friday
+964,Americano with Milk,27,2,55,15,47,Mobile Payment,Mall,12:07:02 PM,26-07-2024,Old,4,Friday
+965,Cappuccino,32,2,65,0,65,Cash,Downtown,12:28:08 PM,26-07-2024,Old,5,Friday
+966,Cappuccino,32,2,65,10,59,Card,Downtown,12:29:18 PM,26-07-2024,New,5,Friday
+967,Latte,32,3,98,0,98,Cash,Downtown,01:09:56 PM,26-07-2024,Old,1,Friday
+968,Americano,23,3,69,10,62,Cash,Downtown,05:23:29 PM,26-07-2024,New,1,Friday
+969,Cappuccino,32,3,98,15,83,Card,Mall,05:58:29 PM,26-07-2024,Old,5,Friday
+970,Latte,32,3,98,10,88,Mobile Payment,Mall,09:15:10 PM,26-07-2024,Old,5,Friday
+971,Americano with Milk,27,1,27,20,22,Card,Airport,10:49:52 PM,26-07-2024,New,4,Friday
+972,Cappuccino,32,2,65,20,52,Mobile Payment,Mall,09:09:16 AM,27-07-2024,New,3,Saturday
+973,Americano with Milk,27,2,55,0,55,Cash,Airport,11:55:31 AM,27-07-2024,Old,4,Saturday
+974,Americano with Milk,27,1,27,20,22,Cash,Mall,12:25:10 PM,27-07-2024,Old,2,Saturday
+975,Espresso,18,2,36,20,28,Mobile Payment,Downtown,12:26:13 PM,27-07-2024,Old,4,Saturday
+976,Americano with Milk,27,3,83,15,71,Card,Airport,12:33:23 PM,27-07-2024,Old,5,Saturday
+977,Espresso,18,1,18,5,17,Card,University,02:28:42 PM,27-07-2024,New,2,Saturday
+978,Latte,32,3,98,10,88,Card,Airport,02:51:53 PM,27-07-2024,New,2,Saturday
+979,Cappuccino,32,2,65,5,62,Cash,Downtown,05:02:33 PM,27-07-2024,Old,1,Saturday
+980,Cappuccino,32,3,98,0,98,Cash,Mall,05:03:39 PM,27-07-2024,New,2,Saturday
+981,Americano with Milk,27,1,27,15,23,Mobile Payment,University,05:09:00 PM,27-07-2024,New,4,Saturday
+982,Americano with Milk,27,3,83,15,71,Mobile Payment,Downtown,05:10:08 PM,27-07-2024,New,2,Saturday
+983,Latte,32,2,65,5,62,Cash,Mall,08:55:20 PM,27-07-2024,Old,3,Saturday
+984,Cappuccino,32,2,65,5,62,Mobile Payment,University,10:56:24 PM,27-07-2024,New,4,Saturday
+985,Espresso,18,2,36,10,32,Cash,Mall,11:07:26 AM,28-07-2024,New,4,Sunday
+986,Americano with Milk,27,1,27,0,27,Card,Mall,02:17:54 PM,28-07-2024,New,5,Sunday
+987,Latte,32,1,32,5,31,Card,University,02:18:52 PM,28-07-2024,Old,1,Sunday
+988,Latte,32,2,65,0,65,Cash,Mall,08:12:06 AM,29-07-2024,Old,2,Monday
+989,Americano,23,2,46,15,39,Cash,Mall,09:04:48 AM,29-07-2024,Old,2,Monday
+990,Americano with Milk,27,3,83,5,79,Card,Airport,09:15:46 AM,29-07-2024,Old,3,Monday
+991,Americano,23,2,46,15,39,Card,University,09:19:44 AM,29-07-2024,New,1,Monday
+992,Americano with Milk,27,1,27,5,26,Card,Mall,09:51:25 AM,29-07-2024,Old,1,Monday
+993,Cappuccino,32,3,98,5,93,Mobile Payment,Airport,09:58:30 AM,29-07-2024,Old,3,Monday
+994,Hot Chocolate,32,3,98,0,98,Card,Mall,10:43:44 AM,29-07-2024,New,3,Monday
+995,Hot Chocolate,32,3,98,10,88,Mobile Payment,Airport,10:44:56 AM,29-07-2024,Old,4,Monday
+996,Cappuccino,32,2,65,0,65,Card,Mall,07:06:31 PM,29-07-2024,Old,3,Monday
+997,Americano,23,2,46,20,36,Mobile Payment,University,07:30:16 PM,29-07-2024,New,4,Monday
+998,Cocoa,32,3,98,10,88,Card,Downtown,09:57:34 PM,29-07-2024,New,3,Monday
+999,Americano with Milk,27,3,83,5,79,Mobile Payment,Airport,07:41:11 AM,30-07-2024,New,1,Tuesday
+1000,Cortado,23,1,23,15,19,Cash,Mall,08:05:07 AM,30-07-2024,New,5,Tuesday
+1001,Cappuccino,32,3,98,20,78,Card,Downtown,08:20:51 AM,30-07-2024,New,5,Tuesday
+1002,Americano with Milk,27,3,83,10,75,Mobile Payment,University,09:13:43 AM,30-07-2024,New,3,Tuesday
+1003,Cortado,23,3,69,10,62,Card,Mall,10:17:11 AM,30-07-2024,Old,3,Tuesday
+1004,Americano with Milk,27,2,55,0,55,Cash,Downtown,10:19:34 AM,30-07-2024,Old,1,Tuesday
+1005,Latte,32,1,32,5,31,Cash,University,10:23:20 AM,30-07-2024,Old,5,Tuesday
+1006,Americano,23,1,23,5,21,Card,Mall,11:12:07 AM,30-07-2024,New,3,Tuesday
+1007,Espresso,18,1,18,10,16,Cash,Downtown,11:13:16 AM,30-07-2024,New,4,Tuesday
+1008,Americano with Milk,27,1,27,20,22,Mobile Payment,University,11:14:42 AM,30-07-2024,Old,4,Tuesday
+1009,Americano with Milk,27,2,55,5,53,Cash,Airport,11:16:02 AM,30-07-2024,Old,1,Tuesday
+1010,Americano with Milk,27,3,83,0,83,Mobile Payment,University,11:30:35 AM,30-07-2024,New,1,Tuesday
+1011,Americano with Milk,27,3,83,15,71,Mobile Payment,Downtown,11:31:41 AM,30-07-2024,New,5,Tuesday
+1012,Latte,32,1,32,5,31,Card,Mall,12:08:08 PM,30-07-2024,Old,1,Tuesday
+1013,Americano with Milk,27,1,27,10,25,Card,Mall,03:16:10 PM,30-07-2024,New,1,Tuesday
+1014,Cortado,23,1,23,20,18,Cash,Downtown,04:08:53 PM,30-07-2024,New,1,Tuesday
+1015,Americano with Milk,27,1,27,20,22,Cash,University,04:09:44 PM,30-07-2024,Old,5,Tuesday
+1016,Espresso,18,1,18,20,14,Cash,Downtown,08:24:20 PM,30-07-2024,New,2,Tuesday
+1017,Americano with Milk,27,1,27,0,27,Card,University,08:53:52 PM,30-07-2024,Old,3,Tuesday
+1018,Americano with Milk,27,2,55,10,50,Card,Mall,08:54:46 PM,30-07-2024,New,3,Tuesday
+1019,Americano with Milk,27,1,27,0,27,Cash,Mall,08:57:02 PM,30-07-2024,Old,5,Tuesday
+1020,Latte,32,1,32,15,27,Mobile Payment,Airport,09:33:19 PM,30-07-2024,Old,5,Tuesday
+1021,Americano,23,3,69,15,58,Card,Airport,10:15:21 PM,30-07-2024,Old,3,Tuesday
+1022,Cappuccino,32,2,65,5,62,Cash,Mall,10:16:19 PM,30-07-2024,Old,4,Tuesday
+1023,Americano with Milk,27,3,83,20,67,Cash,Mall,07:59:52 AM,31-07-2024,Old,3,Wednesday
+1024,Americano with Milk,27,1,27,20,22,Cash,Mall,08:37:42 AM,31-07-2024,New,5,Wednesday
+1025,Americano with Milk,27,3,83,10,75,Card,Downtown,08:38:38 AM,31-07-2024,New,1,Wednesday
+1026,Americano,23,2,46,20,36,Cash,Airport,09:54:45 AM,31-07-2024,New,3,Wednesday
+1027,Americano,23,3,69,0,69,Card,Airport,09:55:45 AM,31-07-2024,New,3,Wednesday
+1028,Americano with Milk,27,3,83,20,67,Cash,Mall,09:58:16 AM,31-07-2024,New,2,Wednesday
+1029,Cocoa,32,2,65,0,65,Card,Downtown,01:11:43 PM,31-07-2024,Old,5,Wednesday
+1030,Latte,32,2,65,0,65,Card,Downtown,01:14:00 PM,31-07-2024,New,2,Wednesday
+1031,Americano with Milk,27,2,55,5,53,Cash,University,01:24:49 PM,31-07-2024,New,1,Wednesday
+1032,Cortado,23,1,23,15,19,Cash,University,05:48:07 PM,31-07-2024,Old,5,Wednesday
+1033,Latte,32,1,32,0,32,Cash,Downtown,06:04:15 PM,31-07-2024,New,5,Wednesday
+1034,Cortado,23,3,69,5,65,Mobile Payment,University,07:22:39 PM,31-07-2024,Old,1,Wednesday
+1035,Latte,32,3,98,0,98,Cash,Downtown,07:28:45 PM,31-07-2024,New,3,Wednesday
+1036,Cocoa,32,1,32,10,29,Card,Airport,08:46:42 PM,31-07-2024,Old,3,Wednesday
+1037,Cortado,23,2,46,20,36,Cash,University,08:50:07 PM,31-07-2024,Old,4,Wednesday
+1038,Latte,32,2,65,10,59,Cash,Airport,08:51:10 PM,31-07-2024,New,2,Wednesday
+1039,Cappuccino,32,3,98,0,98,Mobile Payment,Downtown,08:52:15 PM,31-07-2024,New,1,Wednesday
+1040,Cortado,23,3,69,20,55,Card,Airport,08:53:35 PM,31-07-2024,New,1,Wednesday
+1041,Americano with Milk,27,3,83,0,83,Mobile Payment,Downtown,08:59:25 PM,31-07-2024,Old,5,Wednesday
+1042,Latte,32,2,65,0,65,Cash,University,09:26:26 PM,31-07-2024,New,3,Wednesday
+1043,Latte,32,2,65,15,55,Cash,Downtown,09:54:12 PM,31-07-2024,Old,2,Wednesday
+1044,Latte,32,1,32,15,27,Mobile Payment,University,09:55:17 PM,31-07-2024,Old,1,Wednesday
